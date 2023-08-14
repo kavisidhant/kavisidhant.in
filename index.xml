@@ -14,7 +14,7 @@
     <atom:link href="https://sidhantgreen.codeberg.page/index.xml" rel="self" type="application/rss+xml" />
     <link>https://sidhantgreen.codeberg.page</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Mon, 14 Aug 2023 17:09:48 IST</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 17:36:27 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(C) 2023 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -82,8 +82,8 @@
           मौका आखरी देती हूं, अपनी त्रुटियों सुधार भी ले।<br>
           </p>]]>
           </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/1.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/images/1.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/1.mp3"  type="audio/mpeg" />
-          <itunes:duration>{item['duration']</itunes:duration>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/1.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/1.mp3"  type="audio/mpeg" length="1114604" />
+          <itunes:duration>75.456</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
@@ -153,8 +153,8 @@
           बात-बात पर नुस्ख़े सौ तुम बोल सकोगे।<br>
           </p>]]>
           </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/2.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/images/2.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/2.mp3"  type="audio/mpeg" />
-          <itunes:duration>{item['duration']</itunes:duration>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/2.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/2.mp3"  type="audio/mpeg" length="1908548" />
+          <itunes:duration>133.224</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
@@ -202,8 +202,8 @@
           सदा रहे सच्चा मेरा दिया सब ज्ञान ।<br>
           </p>]]>
           </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/3.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/images/3.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/3.mp3"  type="audio/mpeg" />
-          <itunes:duration>{item['duration']</itunes:duration>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/3.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/3.mp3"  type="audio/mpeg" length="1125932" />
+          <itunes:duration>72.384</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
@@ -260,8 +260,8 @@
           एक मनुष्य भिन्न अनूप भी है।<br>
           </p>]]>
           </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/4.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/images/4.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/4.mp3"  type="audio/mpeg" />
-          <itunes:duration>{item['duration']</itunes:duration>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/4.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/4.mp3"  type="audio/mpeg" length="2063228" />
+          <itunes:duration>127.44</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
@@ -314,8 +314,8 @@
           इसमें छुपे है, लाखों लाखों मायेने।<br>
           </p>]]>
           </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/5.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/images/5.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/5.mp3"  type="audio/mpeg" />
-          <itunes:duration>{item['duration']</itunes:duration>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/5.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/5.mp3"  type="audio/mpeg" length="1163036" />
+          <itunes:duration>68.04</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
