@@ -1,0 +1,292 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>Kavi Sidhant</title>
+    <atom:link href="https://sidhantgreen.codeberg.page/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sidhantgreen.codeberg.page</link>
+    <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
+    <lastBuildDate>Mon, 14 Aug 2023 15:45:14 IST</lastBuildDate>
+    <language>hi</language>
+    <copyright>(C) 2023 Sidhant Goyal</copyright>
+    <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
+    <itunes:author>Sidhant Goyal</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Sidhant Goyal</googleplay:author>
+    <googleplay:email>sidhantgreen@gmail.com</googleplay:email>
+    <itunes:summary>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</itunes:summary>
+    <googleplay:description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Sidhant Goyal</itunes:name>
+      <itunes:email>sidhantgreen@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://sidhantgreen.codeberg.page/cover.jpeg" />
+    <googleplay:image href="https://sidhantgreen.codeberg.page/cover.jpeg"></googleplay:image>
+    <image>
+      <url>https://sidhantgreen.codeberg.page/cover.jpeg</url>
+      <title>Kavi Sidhant</title>
+      <link>https://sidhantgreen.codeberg.page</link>
+    </image>
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" /></itunes:category>
+        <item>
+            <title>धरती का एक टुकड़ा</title>
+            <link>https://sidhantgreen.codeberg.page/1</link>
+            <pubDate>Sun, 14 May 2023 15:70:18 IST</pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://sidhantgreen.codeberg.page/1.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>धरती का एक टुकड़ा</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>धरती का एक टुकड़ा</h1><p>
+          धरती का एक टुकड़ा हूं,<br>
+          में आज तुझे पुकारता हूं,<br>
+          क्या खोने तु आया है, यह सोचता हूं विचरता हूं।<br>
+          <br>
+          बहती थी नदियां, ठहर गईं।<br>
+          पर्वत भी आसूं रोएं हैं।<br>
+          मोती की चमकों के आगे, सागर ने जंतु खोए हैं।<br>
+          <br>
+          पर जनता हो तेरे यश को,<br>
+          तु कागज़ के फूल बना लेगा,<br>
+          सूरज भी कल जो सुख गया, तू अपना प्रकाश बढ़ा लेगा।<br>
+          <br>
+          पर पूछता हूं सवाल बस यह,<br>
+          इन हीरों से, इन मोती से,<br>
+          इन रंगों से, इन चमको से,<br>
+          सुगंध हीन इन फूलों से,<br>
+          क्या प्रेम गीत सजा लोगे?<br>
+          कृत्रम प्रकाश की किरणों से, क्या मन का दीप जला लोगे?<br>
+          <br>
+          नित अंधकार से घिरा हुआ, <br>
+          अपनी सीरत पहचान भी ले,<br>
+          क्या खोने तू आया है अपनी किस्मत को जान भी ले!<br>
+          <br>
+          पवन भी बहना भूल गया, अब धुएं के बदल छाए हैं।<br>
+          मनुष्य विचारना छोड़ चले, दिन हीरों के अब आएं हैं <br>
+          <br>
+          तारों की छांव के बदले, हत्यारों का प्रकाश सजा लेगा,<br>
+          इस धरती को नष्ट कर तो शायद, अपनी लघुता स्वीकार लेगा।<br>
+          <br>
+          किन अंधेरों से घिरा हुआ, अपनी गलती पहचान भी ले।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/1.jpeg"></itunes:image>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/1.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/01.mp3"  type="audio/mpeg" />
+          <itunes:duration>{item['duration']</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>ख़बर स्वाद अनुसार</title>
+            <link>https://sidhantgreen.codeberg.page/2</link>
+            <pubDate>Sat, 20 May 2023 15:70:18 IST</pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://sidhantgreen.codeberg.page/2.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>2</itunes:episode>
+            <itunes:title>ख़बर स्वाद अनुसार</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>ख़बर स्वाद अनुसार</h1><p>
+          ख़बर स्वाद के भेद का कभी किया है ग़ौर?<br>
+          नहीं किया तो देख लो ये नई ख़बर का दौर!<br>
+          <br>
+          नए दौर में देखो कितने बावर्ची कलछी फेर रहे हैं,<br>
+          पढ़े-लिखे-अनपढ़ सबको यह घेर रहे हैं ।<br>
+          <br>
+          लाला भृकुटिलाल तो इस व्यापार में फूले,<br>
+          ज्ञान का विक्रय करते करते उसको पढ़ना भूले,<br>
+          <br>
+          नित्य लोगों को ख़बर के चटकारे देते,<br>
+          करते हैं दान, आदान में कुछ न लेते ।<br>
+          <br>
+          <br>
+          इनसे बड़े भी ज्ञानी हैं ये पंडित हरियानन्द।<br>
+          पंडित हरियानन्द भूख को भाँप रहे हैं,<br>
+          समय की माँग देख मिथ्या ही छाप रहे हैं!<br>
+          <br>
+          मिथ्या-सत्य में फिर भला कैसा हैं ये भेद?<br>
+          यह दक़ियानूसी सोच है, जैसे काला और सफ़ेद!<br>
+          <br>
+          काला और सफ़ेद तो भैया रहा न अक्षर,<br>
+          हरी पीली स्लेट से सब अब हुए साक्षर।<br>
+          <br>
+          ज्ञान विक्रय की क्या तीव्रता अजब ग़ज़ब यह दौर,<br>
+          जल्द पता कुछ चल सके यही लगी है दौड़।<br>
+          <br>
+          इसी दौड़ में तो हरित भी दौड़े,<br>
+          क्या होगा आगे सोचें दिमाग़ी घोड़े।<br>
+          <br>
+          मास्टर स्मिथ आनंद की मगर अलग है सोच,<br>
+          जग में असत्य कि खड़ी इनकी बड़ी है खोज।<br>
+          <br>
+          भैया खड़ी है खोज इन्होंने ऐसा खोजा उत्तर,<br>
+          पृथ्वी की गोलाई पर ही हुए निरुत्तर।<br>
+          <br>
+          निरुत्तर खड़े सबको झूठा आँक रहे हैं।<br>
+          विज्ञान की पीठ को छोड़ असत्य में झांक रहे हैं।<br>
+          <br>
+          मगर इस ही दौड़ में धनानंद को बड़ा आनंद,<br>
+          इनका कारोबार है फैलाना झूठे छंद।<br>
+          <br>
+          झूठे छंद इनके जब जब हैं फैले,<br>
+          नोट के द्वार खड़े हैं इनके झोले थैले।<br>
+          <br>
+          धनानंद घर बैठे सिक्के तोल रहे हैं।<br>
+          वहीं भृकुटी लाल ज्ञान के चक्षु खोल रहे हैं।<br>
+          <br>
+          हाँ! चख लो भूख मिटाने का नया ये मंतर,<br>
+          जीभ पर होगा स्वाद मिटेगा मिथ्या-सत्य का अंतर।<br>
+          <br>
+          घिसीपिटी किताबी बातें भूल सकोगे,<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/2.jpeg"></itunes:image>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/2.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/01.mp3"  type="audio/mpeg" />
+          <itunes:duration>{item['duration']</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>ख़बर स्वाद अनुसार</title>
+            <link>https://sidhantgreen.codeberg.page/3</link>
+            <pubDate>Sun, 4 Jun 2023 15:70:18 IST</pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://sidhantgreen.codeberg.page/3.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>3</itunes:episode>
+            <itunes:title>ख़बर स्वाद अनुसार</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>ख़बर स्वाद अनुसार</h1><p>
+          ख़बर स्वाद के भेद का कभी किया है ग़ौर?<br>
+          नहीं किया तो देख लो ये नई ख़बर का दौर!<br>
+          <br>
+          नए दौर में देखो कितने बावर्ची कलछी फेर रहे हैं,<br>
+          पढ़े-लिखे-अनपढ़ सबको यह घेर रहे हैं ।<br>
+          <br>
+          लाला भृकुटिलाल तो इस व्यापार में फूले,<br>
+          ज्ञान का विक्रय करते करते उसको पढ़ना भूले,<br>
+          <br>
+          नित्य लोगों को ख़बर के चटकारे देते,<br>
+          करते हैं दान, आदान में कुछ न लेते ।<br>
+          <br>
+          <br>
+          इनसे बड़े भी ज्ञानी हैं ये पंडित हरियानन्द।<br>
+          पंडित हरियानन्द भूख को भाँप रहे हैं,<br>
+          समय की माँग देख मिथ्या ही छाप रहे हैं!<br>
+          <br>
+          मिथ्या-सत्य में फिर भला कैसा हैं ये भेद?<br>
+          यह दक़ियानूसी सोच है, जैसे काला और सफ़ेद!<br>
+          <br>
+          काला और सफ़ेद तो भैया रहा न अक्षर,<br>
+          हरी पीली स्लेट से सब अब हुए साक्षर।<br>
+          <br>
+          ज्ञान विक्रय की क्या तीव्रता अजब ग़ज़ब यह दौर,<br>
+          जल्द पता कुछ चल सके यही लगी है दौड़।<br>
+          <br>
+          इसी दौड़ में तो हरित भी दौड़े,<br>
+          क्या होगा आगे सोचें दिमाग़ी घोड़े।<br>
+          <br>
+          मास्टर स्मिथ आनंद की मगर अलग है सोच,<br>
+          जग में असत्य कि खड़ी इनकी बड़ी है खोज।<br>
+          <br>
+          भैया खड़ी है खोज इन्होंने ऐसा खोजा उत्तर,<br>
+          पृथ्वी की गोलाई पर ही हुए निरुत्तर।<br>
+          <br>
+          निरुत्तर खड़े सबको झूठा आँक रहे हैं।<br>
+          विज्ञान की पीठ को छोड़ असत्य में झांक रहे हैं।<br>
+          <br>
+          मगर इस ही दौड़ में धनानंद को बड़ा आनंद,<br>
+          इनका कारोबार है फैलाना झूठे छंद।<br>
+          <br>
+          झूठे छंद इनके जब जब हैं फैले,<br>
+          नोट के द्वार खड़े हैं इनके झोले थैले।<br>
+          <br>
+          धनानंद घर बैठे सिक्के तोल रहे हैं।<br>
+          वहीं भृकुटी लाल ज्ञान के चक्षु खोल रहे हैं।<br>
+          <br>
+          हाँ! चख लो भूख मिटाने का नया ये मंतर,<br>
+          जीभ पर होगा स्वाद मिटेगा मिथ्या-सत्य का अंतर।<br>
+          <br>
+          घिसीपिटी किताबी बातें भूल सकोगे,<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/3.jpeg"></itunes:image>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/3.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/01.mp3"  type="audio/mpeg" />
+          <itunes:duration>{item['duration']</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>चिड़िया </title>
+            <link>https://sidhantgreen.codeberg.page/4</link>
+            <pubDate>Sun, 09 Jul 2023 15:17:10 IST</pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://sidhantgreen.codeberg.page/4.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>4</itunes:episode>
+            <itunes:title>चिड़िया </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>चिड़िया </h1><p>
+          रूह अम्बर में, पग में धरती,<br>
+          ह्रदय विशाल, लघु आशा है!<br>
+          इस चिड़िया की रुक चाल सुनो!<br>
+          क्रांति सुगंध, अभिलाषा है.... <br>
+          <br>
+          आशा है अम्बर को छूले,<br>
+          पर पग रह जायें धरती पर<br>
+          जो ज्ञान है इसके कदमों में,<br>
+          चीखों में वो संज्ञान कहाँ?<br>
+          स्वरचित पंथ अनुयायी है,<br>
+          ज़ंजीरों का संज्ञान कहाँ!<br>
+          <br>
+          कभी विकराल रूप,<br>
+          ममता स्वरुप,<br>
+          इस अंधकार में, सूक्षम धुप,<br>
+          हाँ बदल से है घिरी हुई,<br>
+          उन बदाल का संज्ञान भी है,<br>
+          शायद कुछ से अनजान भी है... <br>
+          <br>
+          पर गगन खूब पहचानती है,<br>
+          उसकी कीमत भी जानती है.. <br>
+          <br>
+          समाज खड़ा है सीमा बन,<br>
+          कुछ नापाक कदम,<br>
+          कुछ अभद्र मनन,<br>
+          सबसे तत्वों से यह वाकिफ है। <br>
+          <br>
+          आशा है, इन तत्वों को उखाड़,<br>
+          मानव की भाषा को सुधार, <br>
+          विचार दक्यानुसी पिछड़,<br>
+          मानव को मनुष्य में उभार,<br>
+          गगन जीत कर आएगी,<br>
+          <br>
+          पर आशा है, पहचानेंगे हम,<br>
+          वह ममता, कोमलता से बढ़कर,<br>
+          एक अद्वित्य स्वरुप भी है। <br>
+          <br>
+          नारी से आगे बढ़कर वो,<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/images/4.jpeg"></itunes:image>
+          <googleplay:image href="https://sidhantgreen.codeberg.page/images/4.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/audio/01.mp3"  type="audio/mpeg" />
+          <itunes:duration>{item['duration']</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+
+</channel>
+</rss>
