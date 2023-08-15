@@ -11,10 +11,10 @@
     >
   <channel>
     <title>Kavi Sidhant</title>
-    <atom:link href="https://sidhantgreen.codeberg.page/index.xml" rel="self" type="application/rss+xml" />
-    <link>https://sidhantgreen.codeberg.page</link>
+    <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Tue, 15 Aug 2023 19:00:18 IST</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 20:31:53 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(C) 2023 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -28,20 +28,21 @@
       <itunes:name>Sidhant Goyal</itunes:name>
       <itunes:email>sidhantgreen@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://sidhantgreen.codeberg.page/cover.jpeg" />
-    <googleplay:image href="https://sidhantgreen.codeberg.page/cover.jpeg"></googleplay:image>
+    <itunes:image href="https://kavisidhant.in/cover.jpeg" />
+    <googleplay:image href="https://kavisidhant.in/cover.jpeg"></googleplay:image>
     <image>
-      <url>https://sidhantgreen.codeberg.page/cover.jpeg</url>
+      <url>https://kavisidhant.in/cover.jpeg</url>
       <title>Kavi Sidhant</title>
-      <link>https://sidhantgreen.codeberg.page</link>
+      <link>https://kavisidhant.in</link>
     </image>
     <itunes:category text="Society &amp; Culture">
     <itunes:category text="Philosophy" /></itunes:category>
         <item>
             <title>धरती का एक टुकड़ा</title>
             <pubDate>Sun, 14 May 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/cover.jpeg/1.html</link>
             <dc:creator></dc:creator>
-            <guid>https://sidhantgreen.codeberg.page/1.mp3</guid>
+            <guid>https://kavisidhant.in/1.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
             <itunes:episode>1</itunes:episode>
             <itunes:title>धरती का एक टुकड़ा</itunes:title>
@@ -81,8 +82,8 @@
           किन अंधेरों से घिरा हुआ, अपनी गलती पहचान भी ले।<br>
           मौका आखरी देती हूं, अपनी त्रुटियों सुधार भी ले।<br>
           </p>]]>
-          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/1.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/1.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/1.mp3"  type="audio/mpeg" length="1114604" />
+          </content:encoded><itunes:image href="https://kavisidhant.in/1.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/1.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/1.mp3"  type="audio/mpeg" length="1114604" />
           <itunes:duration>75.456</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
@@ -90,8 +91,9 @@
         <item>
             <title>ख़बर स्वाद अनुसार</title>
             <pubDate>Sat, 20 May 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/cover.jpeg/2.html</link>
             <dc:creator></dc:creator>
-            <guid>https://sidhantgreen.codeberg.page/2.mp3</guid>
+            <guid>https://kavisidhant.in/2.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
             <itunes:episode>2</itunes:episode>
             <itunes:title>ख़बर स्वाद अनुसार</itunes:title>
@@ -152,8 +154,8 @@
           घिसीपिटी किताबी बातें भूल सकोगे,<br>
           बात-बात पर नुस्ख़े सौ तुम बोल सकोगे।<br>
           </p>]]>
-          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/2.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/2.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/2.mp3"  type="audio/mpeg" length="1908548" />
+          </content:encoded><itunes:image href="https://kavisidhant.in/2.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/2.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/2.mp3"  type="audio/mpeg" length="1908548" />
           <itunes:duration>133.224</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
@@ -161,8 +163,9 @@
         <item>
             <title>कागज़</title>
             <pubDate>Sun, 4 Jun 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/cover.jpeg/3.html</link>
             <dc:creator></dc:creator>
-            <guid>https://sidhantgreen.codeberg.page/3.mp3</guid>
+            <guid>https://kavisidhant.in/3.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
             <itunes:episode>3</itunes:episode>
             <itunes:title>कागज़</itunes:title>
@@ -201,8 +204,8 @@
           आज जलकर करूँगा एक मनुष्य को ऊष्मा प्रदान ।<br>
           सदा रहे सच्चा मेरा दिया सब ज्ञान ।<br>
           </p>]]>
-          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/3.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/3.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/3.mp3"  type="audio/mpeg" length="1125932" />
+          </content:encoded><itunes:image href="https://kavisidhant.in/3.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/3.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/3.mp3"  type="audio/mpeg" length="1125932" />
           <itunes:duration>72.384</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
@@ -210,8 +213,9 @@
         <item>
             <title>चिड़िया </title>
             <pubDate>Sun, 09 Jul 2023 15:17:10 IST</pubDate>
+            <link>https://kavisidhant.in/cover.jpeg/4.html</link>
             <dc:creator></dc:creator>
-            <guid>https://sidhantgreen.codeberg.page/4.mp3</guid>
+            <guid>https://kavisidhant.in/4.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
             <itunes:episode>4</itunes:episode>
             <itunes:title>चिड़िया </itunes:title>
@@ -259,8 +263,8 @@
           नारी से आगे बढ़कर वो,<br>
           एक मनुष्य भिन्न अनूप भी है।<br>
           </p>]]>
-          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/4.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/4.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/4.mp3"  type="audio/mpeg" length="2063228" />
+          </content:encoded><itunes:image href="https://kavisidhant.in/4.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/4.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/4.mp3"  type="audio/mpeg" length="2063228" />
           <itunes:duration>127.44</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
@@ -268,8 +272,9 @@
         <item>
             <title>ताज</title>
             <pubDate>Sun, 13 Aug 2023 15:45:14 IST</pubDate>
+            <link>https://kavisidhant.in/cover.jpeg/5.html</link>
             <dc:creator></dc:creator>
-            <guid>https://sidhantgreen.codeberg.page/5.mp3</guid>
+            <guid>https://kavisidhant.in/5.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
             <itunes:episode>5</itunes:episode>
             <itunes:title>ताज</itunes:title>
@@ -313,8 +318,8 @@
           दिखाकर देखो तो इस आइने,<br>
           इसमें छुपे है, लाखों लाखों मायेने।<br>
           </p>]]>
-          </content:encoded><itunes:image href="https://sidhantgreen.codeberg.page/5.jpeg"></itunes:image>
-          <googleplay:image href="https://sidhantgreen.codeberg.page/5.jpeg"></googleplay:image><enclosure url="https://sidhantgreen.codeberg.page/5.mp3"  type="audio/mpeg" length="1163036" />
+          </content:encoded><itunes:image href="https://kavisidhant.in/5.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/5.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/5.mp3"  type="audio/mpeg" length="1163036" />
           <itunes:duration>68.04</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
