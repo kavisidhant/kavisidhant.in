@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Tue, 15 Aug 2023 20:31:53 IST</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 20:35:16 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(C) 2023 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -40,7 +40,7 @@
         <item>
             <title>धरती का एक टुकड़ा</title>
             <pubDate>Sun, 14 May 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/cover.jpeg/1.html</link>
+            <link>https://kavisidhant.in/1.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/1.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
@@ -91,7 +91,7 @@
         <item>
             <title>ख़बर स्वाद अनुसार</title>
             <pubDate>Sat, 20 May 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/cover.jpeg/2.html</link>
+            <link>https://kavisidhant.in/2.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/2.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
@@ -163,7 +163,7 @@
         <item>
             <title>कागज़</title>
             <pubDate>Sun, 4 Jun 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/cover.jpeg/3.html</link>
+            <link>https://kavisidhant.in/3.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/3.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
@@ -213,7 +213,7 @@
         <item>
             <title>चिड़िया </title>
             <pubDate>Sun, 09 Jul 2023 15:17:10 IST</pubDate>
-            <link>https://kavisidhant.in/cover.jpeg/4.html</link>
+            <link>https://kavisidhant.in/4.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/4.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
@@ -272,7 +272,7 @@
         <item>
             <title>ताज</title>
             <pubDate>Sun, 13 Aug 2023 15:45:14 IST</pubDate>
-            <link>https://kavisidhant.in/cover.jpeg/5.html</link>
+            <link>https://kavisidhant.in/5.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/5.mp3</guid>
             <itunes:author>Sidhant Goyal</itunes:author>
