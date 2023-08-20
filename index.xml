@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sun, 20 Aug 2023 13:09:43 IST</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2023 13:23:47 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(CC-BY) 2023 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -321,6 +321,54 @@
           </content:encoded><itunes:image href="https://kavisidhant.in/5.jpeg"></itunes:image>
           <googleplay:image href="https://kavisidhant.in/5.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/5.mp3"  type="audio/mpeg" length="1163036" />
           <itunes:duration>68.04</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>भाषा</title>
+            <pubDate>Sun, 20 Aug 2023 11:58:19 IST</pubDate>
+            <link>https://kavisidhant.in/6.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/6.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>6</itunes:episode>
+            <itunes:title>भाषा</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>भाषा</h1><p>
+          भाव-विचार प्रसार की जननी, भाषा का आभारी हूं,<br>
+          तेरे कारण ही तो मैं, अपने बोलो का अधिकारी हूं।<br>
+          <br>
+          पर आभार करूं मैं किस किस का।<br>
+          यह जीवन भी तो उपहार ही है,<br>
+          लाखों का उपकार ही है।<br>
+          <br>
+          पर भाषा तेरे ही बोलों से,<br>
+          दिल कितनों के हैं टूट चुके,<br>
+          ये जलते घर, जलती गलियां, जलती लाशें,<br>
+          मुझसे भी कुछ मांगती हैं…<br>
+          उत्तर को चीख पुकारती हैं।<br>
+          <br>
+          मेरे भी कुछ बोलो से तो,<br>
+          हृदय आघात हुआ होगा।<br>
+          जो टूट गया उस दिल को मैं, शब्दों से कैसे जोड़ सकूं?<br>
+          <br>
+          बस माफी ही दिल से मांग सकूं,<br>
+          गलती अपनी स्वीकार सकूं,<br>
+          इस डोर पड़ी हैं गाठें जो,<br>
+          स्प्रेम मैं उनको तार सकूं।<br>
+          <br>
+          इतिहास देख पहचानता हूं,<br>
+          शायद यह भूल पुनेः भी हो।<br>
+          कृपा होगी माफी उस क्षण की,<br>
+          जो आज ही तुम स्वीकार करो।<br>
+          बेहतर बनने की मेरी आशा,<br>
+          पहचान सको, साकार सको।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/6.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/6.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/6.mp3"  type="audio/mpeg" length="829803" />
+          <itunes:duration>51.84</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
