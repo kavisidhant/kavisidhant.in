@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sun, 10 Sep 2023 10:29:55 IST</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 18:07:42 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(CC-BY) 2023 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -413,6 +413,46 @@
           </content:encoded><itunes:image href="https://kavisidhant.in/7.jpeg"></itunes:image>
           <googleplay:image href="https://kavisidhant.in/7.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/7.mp3"  type="audio/mpeg" length="1245435" />
           <itunes:duration>62.04</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>लकीर</title>
+            <pubDate>Sun, 14 Oct 2023 18:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/8.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/8.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>8</itunes:episode>
+            <itunes:title>लकीर</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>लकीर</h1><p>
+          यूँ ही एक रोज़ मैं।<br>
+          चला लकीरों की खोज में।<br>
+          <br>
+          नक्षों में बनी थी वो।<br>
+          ज़मीन को बाटती थीं जो।<br>
+          पर उनके सिवा भी थी कई और सैकड़ों।<br>
+          <br>
+          मन के अंदर झाककर।<br>
+          हैरान था मैं जानकर।<br>
+          धर्म लिंग जात, देश, वेश, और रंग से जगको बाटकर।<br>
+          खुश थे हम व्देश को स्वीकार कर।<br>
+          <br>
+          एकता के बल पर जो बढ़े।<br>
+          बंधु आज वो थे लड़े।<br>
+          अचेत भूमी पर पड़े।<br>
+          <br>
+          धन के लालच में अंधे।<br>
+          माया जाल से बंधे।<br>
+          मनुष्य हैं बटे खड़े।<br>
+          अचेत भूमी पर पड़े।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/8.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/8.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/8.mp3"  type="audio/mpeg" length="536811" />
+          <itunes:duration>33.528</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
