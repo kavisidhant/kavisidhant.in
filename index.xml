@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sat, 06 Jan 2024 09:31:28 IST</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 07:51:11 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(CC-BY) 2024 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -660,6 +660,50 @@
           </content:encoded><itunes:image href="https://kavisidhant.in/11.jpeg"></itunes:image>
           <googleplay:image href="https://kavisidhant.in/11.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/11.mp3"  type="audio/mpeg" length="912555" />
           <itunes:duration>57.0</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>बारूद</title>
+            <pubDate>Friday, 26 Jan 2024 08:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/12.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/12.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>12</itunes:episode>
+            <itunes:title>बारूद</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>बारूद</h1><p>
+          नथुराम को, बिनलादेन को बंदूक कौन दिलाता है?<br>
+          गीता नहीं, कुरान भी नहीं, फिर यह ज्ञान कहाँ से आता है?<br>
+          धुँए से घिरे, लाशों से बिछे जग का स्वप्न कौन इन्हें दिखाता है?<br>
+          <br>
+          धर्म की किताबों में नहीं न बारूद के तैखानों में।<br>
+          जवाब ढूँढ के मिलते हैं तेरे मेरे ही इस मन में।<br>
+          <br>
+          जब थमे मन से नहीं, दौड़ती आँखों से जग को हम देखते हैं।<br>
+          जो मन को न भाए क्षण भर में उसे फ़ेंकते हैं।<br>
+          जब तर्क नहीं अतर्क बोलों से मनुष्य की परख करें।<br>
+          एक कारण में उलझ आपस में हम फ़र्क करें।<br>
+          <br>
+          एक बोल से बँट जाएँ, जब ऐसी नाज़ुक डोर पर खड़े।<br>
+          अपनी सीख फैलानें में, उस सीख को ही हम छोड़ चले।<br>
+          <br>
+          याद रखें यह प्रेम भाव ही इस कुल की साज-सज्जा है।<br>
+          अलग बँटते हैं जब हम तो यह रोता है यह जलता है।<br>
+          <br>
+          जब अगली बार गणतंत्र दिवस पर देखो उस तोप को तुम..<br>
+          तो सलाम करो उस जज़्बात को भी,<br>
+          पर भूलो मत याद करो कारगिल की उस रात को भी।<br>
+          <br>
+          एकता से खड़े रहो बात-बात पर बँटो नहीं।<br>
+          चर्चा करो, समझो हर पक्ष को, बात-बात पर लड़ो नहीं।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/12.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/12.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/12.mp3"  type="audio/mpeg" length="979179" />
+          <itunes:duration>61.176</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
