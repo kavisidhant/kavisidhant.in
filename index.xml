@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sun, 14 Apr 2024 08:30:52 IST</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 11:05:41 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(CC-BY) 2024 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -772,6 +772,63 @@
           </content:encoded><itunes:image href="https://kavisidhant.in/13.jpeg"></itunes:image>
           <googleplay:image href="https://kavisidhant.in/13.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/13.mp3"  type="audio/mpeg" length="3426027" />
           <itunes:duration>214.104</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>मंज़िल </title>
+            <pubDate>Saturday, 16 Nov 2024 10:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/14.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/14.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>14</itunes:episode>
+            <itunes:title>मंज़िल </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>मंज़िल </h1><p>
+          मन आशा, मंज़िल अभिलाषा,<br>
+          दृण कदम लिए चलता जाता...<br>
+          एक पंथ का पंथी था,<br>
+          मंज़िल की ओर बढ़ा जाता...<br>
+          <br>
+          आराम धरा, अभिमान धरा,<br>
+          सब छोड़ मंज़िल की ओर चला!<br>
+          <br>
+          इस मंज़िल के पथ में मिलते,<br>
+          पर नक्शों के व्यापारी थे,<br>
+          देवदूत के भेष में यह, विचित्र तर्क अधिकारी थे। <br>
+          <br>
+          ज्ञान धरा, संज्ञान धरा,<br>
+          तर्क धरा, प्रयास करा!<br>
+          नित कदमों का अभ्यास करा!!<br>
+          मंज़िल को नित आभास करा। <br>
+          <br>
+          पर शिखर की आशा मन में ले,<br>
+          गगन को कब हम भूल चले?<br>
+          <br>
+          किस ओर चले ये बिन पूछे,<br>
+          हाथ पकड़ यह भीड़ चले!<br>
+          <br>
+          माना मंज़िल मुश्किल भी है,<br>
+          माना अनजान यह पथ भी है... <br>
+          <br>
+          पर मंज़िल तो खुदमें ही, है पथ अपना भी खोज रही। <br>
+          खुद मंज़िल से भी पूछो वो है कितना खुद में जूझ रही। <br>
+          <br>
+          जो खुदको खुद न जान सका... <br>
+          उसका रस्ता तुम पहचान चुके?<br>
+          <br>
+          पंथी आशा बस इतनी है,<br>
+          कदमों से पथ रच जाओगे... <br>
+          <br>
+          पाओगे मंज़िल, पर थमोगे नहीं,<br>
+          आँखों में हैरानी ले बढ़ते जाओगे।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/14.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/14.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/14.mp3"  type="audio/mpeg" length="1719148" />
+          <itunes:duration>107.424</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
