@@ -14,7 +14,7 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sat, 08 Feb 2025 19:51:11 IST</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:34:28 IST</lastBuildDate>
     <language>hi</language>
     <copyright>(CC-BY) 2025 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
@@ -834,7 +834,7 @@
        </item>
         <item>
             <title>प्रार्थना </title>
-            <pubDate>Saturday, 08 Feb 2025 10:00:00 IST</pubDate>
+            <pubDate>Saturday, 08 Feb 2025 20:00:00 IST</pubDate>
             <link>https://kavisidhant.in/15.html</link>
             <dc:creator></dc:creator>
             <guid>https://kavisidhant.in/15.mp3</guid>
@@ -846,11 +846,35 @@
           <googleplay:description></googleplay:description>
           <content:encoded><![CDATA[<h1>प्रार्थना </h1><p>
           हे ईश्वर प्रार्थना है मेरी,<br>
-          आस्था की घाट से कहीं दूर, आराधना है मेरी<br>
+          आस्था की घाट से कहीं दूर, आराधना है मेरी ... <br>
+          <br>
+          इस मूक दुनिया को एक आवाज़ मिल जाये,<br>
+          मनुष्य को मानवता का आभास मिल जाये ...<br>
+          <br>
+          मुझसे कोसों दूर बस्ता है एक देश जो जल रहा है,<br>
+          रूस की तोपों के तले, टूट रहा है, बिखर रहा है। <br>
+          न ज़ुबान एक है, न धर्म, न आस्था,<br>
+          न जाने फिर क्यों सुन पाता हूँ उनकी चीखें, उनकी दास्तान?<br>
+          <br>
+          अफ़ग़ानिस्तान में तालिबान का शासन बरक़रार।<br>
+          बंदिशों के दड़बे, ज़ंजीरों की दीवार।<br>
+          <br>
+          लालच की भूख फिर भी जारी,<br>
+          साथ ही पलती है भुखमरी, बीमारी! <br>
+          <br>
+          थम, ठहर, रुक, एक षंड तो विचार ले,<br>
+          मौका अभी भी है त्रुटियां सुधर ले!<br>
+          <br>
+          वरना ये जग इंसानियत का मकबरा बन जायेगा।<br>
+          <br>
+          महायोग होगा ये माना, पर १४४ वर्ष में फिर आजायेगा।<br>
+          पर वो योग कब आएगा.. <br>
+          जब इंसान इंसान को समझ पायेगा... <br>
+          जब इंसान इंसान को समझ पायेगा... <br>
           </p>]]>
           </content:encoded><itunes:image href="https://kavisidhant.in/15.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/15.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/15.mp3"  type="audio/mpeg" length="1719148" />
-          <itunes:duration>107.424</itunes:duration>
+          <googleplay:image href="https://kavisidhant.in/15.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/15.mp3"  type="audio/mpeg" length="1521353" />
+          <itunes:duration>95.064</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
        </item>
