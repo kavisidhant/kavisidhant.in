@@ -14,9 +14,9 @@
     <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
     <link>https://kavisidhant.in</link>
     <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sat, 16 Nov 2024 11:13:09 IST</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 19:51:11 IST</lastBuildDate>
     <language>hi</language>
-    <copyright>(CC-BY) 2024 Sidhant Goyal</copyright>
+    <copyright>(CC-BY) 2025 Sidhant Goyal</copyright>
     <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
     <itunes:author>Sidhant Goyal</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -828,6 +828,28 @@
           </p>]]>
           </content:encoded><itunes:image href="https://kavisidhant.in/14.jpeg"></itunes:image>
           <googleplay:image href="https://kavisidhant.in/14.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/14.mp3"  type="audio/mpeg" length="1719148" />
+          <itunes:duration>107.424</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>प्रार्थना </title>
+            <pubDate>Saturday, 08 Feb 2025 10:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/15.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/15.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>15</itunes:episode>
+            <itunes:title>प्रार्थना </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>प्रार्थना </h1><p>
+          हे ईश्वर प्रार्थना है मेरी,<br>
+          आस्था की घाट से कहीं दूर, आराधना है मेरी<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/15.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/15.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/15.mp3"  type="audio/mpeg" length="1719148" />
           <itunes:duration>107.424</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit>
