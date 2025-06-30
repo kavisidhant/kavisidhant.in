@@ -1,883 +1,883 @@
-<rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    >
-  <channel>
-    <title>Kavi Sidhant</title>
-    <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
-    <link>https://kavisidhant.in</link>
-    <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
-    <lastBuildDate>Sat, 08 Feb 2025 20:34:28 IST</lastBuildDate>
-    <language>hi</language>
-    <copyright>(CC-BY) 2025 Sidhant Goyal</copyright>
-    <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
-    <itunes:author>Sidhant Goyal</itunes:author>
-    <itunes:type>episodic</itunes:type>
-    <googleplay:author>Sidhant Goyal</googleplay:author>
-    <googleplay:email>sidhantgreen@gmail.com</googleplay:email>
-    <itunes:summary>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</itunes:summary>
-    <googleplay:description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</googleplay:description>
-    <itunes:owner>
-      <itunes:name>Sidhant Goyal</itunes:name>
-      <itunes:email>sidhantgreen@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://kavisidhant.in/cover.jpeg" />
-    <googleplay:image href="https://kavisidhant.in/cover.jpeg"></googleplay:image>
-    <image>
-      <url>https://kavisidhant.in/cover.jpeg</url>
-      <title>Kavi Sidhant</title>
-      <link>https://kavisidhant.in</link>
-    </image>
-    <itunes:category text="Society &amp; Culture">
-    <itunes:category text="Philosophy" /></itunes:category>
-        <item>
-            <title>धरती का एक टुकड़ा</title>
-            <pubDate>Sun, 14 May 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/1.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/1.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>1</itunes:episode>
-            <itunes:title>धरती का एक टुकड़ा</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>धरती का एक टुकड़ा</h1><p>
-          धरती का एक टुकड़ा हूं,<br>
-          में आज तुझे पुकारता हूं,<br>
-          क्या खोने तू आया है, यह सोचता हूं विचरता हूं।<br>
-          <br>
-          बहती थी नदियां, ठहर गईं।<br>
-          पर्वत भी आँसू रोएं हैं।<br>
-          मोती की चमकों के आगे, सागर ने जंतु खोए हैं।<br>
-          <br>
-          पर जानता हो तेरे यश को,<br>
-          तू कागज़ के फूल बना लेगा,<br>
-          सूरज भी कल जो सुख गया, तू अपना प्रकाश बढ़ा लेगा।<br>
-          <br>
-          पर पूछता हूं सवाल बस यह,<br>
-          इन हीरों से, इन मोती से,<br>
-          इन रंगों से, इन चम्कों से,<br>
-          सुगंध हीन इन फूलों से,<br>
-          क्या प्रेम गीत सजा लोगे?<br>
-          कृत्रम प्रकाश की किरणों से, क्या मन का दीप जला लोगे?<br>
-          <br>
-          नित अंधकार से घिरा हुआ, <br>
-          अपनी सीरत पहचान भी ले,<br>
-          क्या खोने तू आया है अपनी किस्मत को जान भी ले!<br>
-          <br>
-          पवन भी बहना भूल गया, अब धुएं के बदल छाए हैं।<br>
-          मनुष्य विचारना छोड़ चले, दिन हीरों के अब आएं हैं <br>
-          <br>
-          तारों की छांव के बदले, हत्यारों का प्रकाश सजा लेगा,<br>
-          इस धरती को नष्ट कर तो शायद, अपनी लघुता स्वीकार लेगा।<br>
-          <br>
-          किन अंधेरों से घिरा हुआ, अपनी गलती पहचान भी ले।<br>
-          मौका आखरी देती हूं, अपनी त्रुटियों सुधार भी ले।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/1.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/1.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/1.mp3"  type="audio/mpeg" length="1114604" />
-          <itunes:duration>75.456</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>ख़बर स्वाद अनुसार</title>
-            <pubDate>Sat, 20 May 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/2.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/2.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>2</itunes:episode>
-            <itunes:title>ख़बर स्वाद अनुसार</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>ख़बर स्वाद अनुसार</h1><p>
-          ख़बर स्वाद के भेद का कभी किया है ग़ौर?<br>
-          नहीं किया तो देख लो ये नई ख़बर का दौर!<br>
-          <br>
-          नए दौर में देखो कितने बावर्ची कलछी फेर रहे हैं,<br>
-          पढ़े-लिखे-अनपढ़ सबको यह घेर रहे हैं ।<br>
-          <br>
-          लाला भृकुटिलाल तो इस व्यापार में फूले,<br>
-          ज्ञान का विक्रय करते करते उसको पढ़ना भूले,<br>
-          <br>
-          नित्य लोगों को ख़बर के चटकारे देते,<br>
-          करते हैं दान, आदान में कुछ न लेते ।<br>
-          <br>
-          इनसे बड़े भी ज्ञानी हैं ये पंडित हरियानन्द।<br>
-          पंडित हरियानन्द भूख को भाँप रहे हैं,<br>
-          समय की माँग देख मिथ्या ही छाप रहे हैं!<br>
-          <br>
-          मिथ्या-सत्य में फिर भला कैसा हैं ये भेद?<br>
-          यह दक़ियानूसी सोच है, जैसे काला और सफ़ेद!<br>
-          <br>
-          काला और सफ़ेद तो भैया रहा न अक्षर,<br>
-          हरी पीली स्लेट से सब अब हुए साक्षर।<br>
-          <br>
-          ज्ञान विक्रय की क्या तीव्रता अजब ग़ज़ब यह दौर,<br>
-          जल्द पता कुछ चल सके यही लगी है दौड़।<br>
-          <br>
-          इसी दौड़ में तो हरित भी दौड़े,<br>
-          क्या होगा आगे सोचें दिमाग़ी घोड़े।<br>
-          <br>
-          मास्टर स्मिथ आनंद की मगर अलग है सोच,<br>
-          जग में असत्य कि खड़ी इनकी बड़ी है खोज।<br>
-          <br>
-          भैया खड़ी है खोज इन्होंने ऐसा खोजा उत्तर,<br>
-          पृथ्वी की गोलाई पर ही हुए निरुत्तर।<br>
-          <br>
-          निरुत्तर खड़े सबको झूठा आँक रहे हैं।<br>
-          विज्ञान की पीठ को छोड़ असत्य में झांक रहे हैं।<br>
-          <br>
-          मगर इस ही दौड़ में धनानंद को बड़ा आनंद,<br>
-          इनका कारोबार है फैलाना झूठे छंद।<br>
-          <br>
-          झूठे छंद इनके जब जब हैं फैले,<br>
-          नोट के द्वार खड़े हैं इनके झोले थैले।<br>
-          <br>
-          धनानंद घर बैठे सिक्के तोल रहे हैं।<br>
-          वहीं भृकुटी लाल ज्ञान के चक्षु खोल रहे हैं।<br>
-          <br>
-          हाँ! चख लो भूख मिटाने का नया ये मंतर,<br>
-          जीभ पर होगा स्वाद मिटेगा मिथ्या-सत्य का अंतर।<br>
-          <br>
-          घिसीपिटी किताबी बातें भूल सकोगे,<br>
-          बात-बात पर नुस्ख़े सौ तुम बोल सकोगे।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/2.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/2.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/2.mp3"  type="audio/mpeg" length="1908548" />
-          <itunes:duration>133.224</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>कागज़</title>
-            <pubDate>Sun, 4 Jun 2023 15:70:18 IST</pubDate>
-            <link>https://kavisidhant.in/3.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/3.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>3</itunes:episode>
-            <itunes:title>कागज़</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>कागज़</h1><p>
-          भूमि पर एक दिन जा गिरा ।<br>
-          इस अनजान जग से कुछ डरा-डरा ।<br>
-          समय ने अपना कार्य  करा ।<br>
-          एक बीज बरगद का विशाल वृक्ष बना ।<br>
-          <br>
-          मैं ही चिड़िया का बसेरा था ।<br>
-          मनुष्यों  से संबन्ध भी गहरा था ।<br>
-          सुनता था नित एक नई कथा ।<br>
-          दु:ख-सु:ख सबकी कोई गाथा।<br>
-          <br>
-          आज़ादी  का आभास देख।<br>
-          सन सैंतालीस का उल्लास देख ।<br>
-          इस आज़ाद देश को देख-देख मैं हर्षाया ।<br>
-          फिर अगले ही क्षण, कंठ भी मेरा भर आया ।<br>
-          बटे हुए देश के ख्याल ने मुझे सताया।<br>
-          <br>
-          इस दु:ख मे डूबे खड़ा हुआ ।<br>
-          भूख के दृश्यों में भी अड़ा हुआ।<br>
-          समय ने फिर कुछ काम किया ।<br>
-          भू पे था मैं अब पड़ा हुआ ।<br>
-          <br>
-          आज़ादी का पैगाम बनने का मौका तो मैंने न पाया।<br>
-          पर उन्नति की मांग ने मुझको कागज़ बनाया ।<br>
-          ज़मीन की कीमत ने शायद मुझको अपना दाम दिखाया।<br>
-          <br>
-          बटे हुए इस देश में बन एकता का पैगाम ।<br>
-          किसी स्वतंत्रता सैनानी से कम नहीं था मेरा काम ।<br>
-          अपने इस सफ़र को देते हुए विराम ।<br>
-          आज जलकर करूँगा एक मनुष्य को ऊष्मा प्रदान ।<br>
-          सदा रहे सच्चा मेरा दिया सब ज्ञान ।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/3.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/3.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/3.mp3"  type="audio/mpeg" length="1125932" />
-          <itunes:duration>72.384</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>चिड़िया </title>
-            <pubDate>Sun, 09 Jul 2023 15:17:10 IST</pubDate>
-            <link>https://kavisidhant.in/4.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/4.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>4</itunes:episode>
-            <itunes:title>चिड़िया </itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>चिड़िया </h1><p>
-          रूह अम्बर में, पग में धरती,<br>
-          ह्रदय विशाल, लघु आशा है!<br>
-          इस चिड़िया की रुक चाल सुनो!<br>
-          क्रांति सुगंध, अभिलाषा है.... <br>
-          <br>
-          आशा है अम्बर को छूले,<br>
-          पर पग रह जायें धरती पर<br>
-          जो ज्ञान है इसके कदमों में,<br>
-          चीखों में वो संज्ञान कहाँ?<br>
-          स्वरचित पंथ अनुयायी है,<br>
-          ज़ंजीरों का संज्ञान कहाँ!<br>
-          <br>
-          कभी विकराल रूप,<br>
-          ममता स्वरुप,<br>
-          इस अंधकार में, सूक्षम धुप,<br>
-          हाँ बादल से है घिरी हुई,<br>
-          उन बादल का संज्ञान भी है,<br>
-          शायद कुछ से अनजान भी है... <br>
-          <br>
-          पर गगन खूब पहचानती है,<br>
-          उसकी कीमत भी जानती है.. <br>
-          <br>
-          समाज खड़ा है सीमा बन,<br>
-          कुछ नापाक कदम,<br>
-          कुछ अभद्र मनन,<br>
-          सबसे तत्वों से यह वाकिफ है। <br>
-          <br>
-          आशा है, इन तत्वों को उखाड़,<br>
-          मानव की भाषा को सुधार,<br>
-          विचार दक्यानुसी पिछाड़,<br>
-          मानव को मानुष में उभार,<br>
-          गगन जीत कर आएगी...<br>
-          <br>
-          पर आशा है, पहचानेंगे हम,<br>
-          वह ममता, कोमलता से बढ़कर,<br>
-          एक अद्वित्य स्वरुप भी है। <br>
-          <br>
-          नारी से आगे बढ़कर वो,<br>
-          एक मनुष्य भिन्न अनूप भी है।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/4.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/4.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/4.mp3"  type="audio/mpeg" length="2063228" />
-          <itunes:duration>127.44</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>ताज महल</title>
-            <pubDate>Sun, 13 Aug 2023 15:45:14 IST</pubDate>
-            <link>https://kavisidhant.in/5.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/5.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>5</itunes:episode>
-            <itunes:title>ताज महल</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>ताज महल</h1><p>
-          यमुना की गोद में मोती सा चमकता एक मकबरा।<br>
-          मोहब्बत का इश्तिहार?<br>
-          या एक स्मारक शोहरत से भरा?<br>
-          <br>
-          जूझता इन्हीं सवालों से,<br>
-          खड़ा था मैं उसे पार,<br>
-          उतरती थी मेरी तस्वीर .. <br>
-          क्या मैं खुद भी था इश्तिहार?<br>
-          <br>
-          तब ही संगमरमर ने तोड़ी चुप्पी की सलाख,<br>
-          विद्वता ले 300 वर्षों की,<br>
-          बोला विनम्र स्वभाव..<br>
-          ये नक्काशी, ये खूबसूरती,<br>
-          यह छलावा, यह नकाब,<br>
-          हमेशा  समझे गए हैं मोहब्बत के शबाब...<br>
-          <br>
-          पर देखनी हो मोहब्बत की असली तासीर,<br>
-          तो उन फ़नकारूँ के जज़बे को देखो,<br>
-          जिन्होंने बक्शी इसको यह नायाब तस्वीर..<br>
-          <br>
-          या देखो उनकी दूरदर्शिता,<br>
-          जिनके कारण 300 वर्षों से खड़ी है यह इमारत,<br>
-          बनके प्रेम, मोहब्बत और शोहरत की स्मारक। <br>
-          <br>
-          या जानो शौहरत की फितरत,<br>
-          जो चंद पलों में गुज़र जाती है,<br>
-          अपनी निशानी की तरह,<br>
-          कुछ स्मारक मात्र छोड़ जाती है। <br>
-          <br>
-          या सुनो कुदरत की वो पुकार,<br>
-          जो पीलेपन से इस इमारत को निखार,<br>
-          मांगती हमसे एक सच्चा प्रयास।<br>
-          <br>
-          दिखाकर देखो तो इस मकबरे को आइने,<br>
-          इसमें छुपे है, लाखों.. लाखों.. मायेने।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/5.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/5.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/5.mp3"  type="audio/mpeg" length="1163036" />
-          <itunes:duration>68.04</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>भाषा</title>
-            <pubDate>Sun, 20 Aug 2023 11:58:19 IST</pubDate>
-            <link>https://kavisidhant.in/6.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/6.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>6</itunes:episode>
-            <itunes:title>भाषा</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>भाषा</h1><p>
-          भाव-विचार प्रसार की जननी, भाषा का आभारी हूं,<br>
-          तेरे कारण ही तो मैं, अपने बोलो का अधिकारी हूं।<br>
-          <br>
-          पर आभार करूं मैं किस किस का।<br>
-          यह जीवन भी तो उपहार ही है,<br>
-          लाखों का उपकार ही है।<br>
-          <br>
-          पर भाषा तेरे ही बोलों से,<br>
-          दिल कितनों के हैं टूट चुके,<br>
-          ये जलते घर, जलती गलियां, जलती लाशें,<br>
-          मुझसे भी कुछ मांगती हैं…<br>
-          उत्तर को चीख पुकारती हैं।<br>
-          <br>
-          मेरे भी कुछ बोलो से तो,<br>
-          हृदय आघात हुआ होगा।<br>
-          जो टूट गया उस दिल को मैं, शब्दों से कैसे जोड़ सकूं?<br>
-          <br>
-          बस माफी ही दिल से मांग सकूं,<br>
-          गलती अपनी स्वीकार सकूं,<br>
-          इस डोर पड़ी हैं गाठें जो,<br>
-          स्प्रेम मैं उनको तार सकूं।<br>
-          <br>
-          इतिहास देख पहचानता हूं,<br>
-          शायद यह भूल पुनेः भी हो।<br>
-          कृपा होगी माफी उस क्षण की,<br>
-          जो आज ही तुम स्वीकार करो।<br>
-          बेहतर बनने की मेरी आशा,<br>
-          पहचान सको, साकार सको।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/6.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/6.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/6.mp3"  type="audio/mpeg" length="829803" />
-          <itunes:duration>51.84</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>कान</title>
-            <pubDate>Sun, 10 Sep 2023 10:30:00 IST</pubDate>
-            <link>https://kavisidhant.in/7.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/7.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>7</itunes:episode>
-            <itunes:title>कान</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>कान</h1><p>
-          समाचार की चीख भी सुनते,<br>
-          टेलिफ़ोन की टुन-टुन भी।<br>
-          पर यह धारा जो बहती, इस पर इनका बस नहीं।<br>
-          <br>
-          सच-झूठ का भेद न जाने, कान तो बस नित सुनते हैं।<br>
-          असत्य को ही तथ्य मानकर कारण उसके गुनते हैं।<br>
-          पर इनकी इस धारा को हाथ न इनके चुनते हैं।<br>
-          जो जलाते हैं वो हाथ अलग हैं, पर शहर और ही कारण जलते हैं।<br>
-          <br>
-          अज्ञानता के इस खेल में आँख भी उनकी साथी हैं।<br>
-          हाथ को दोषी मानती हैं वो कारण समझ न पाती हैं।<br>
-          मुफ़्त-मुफ़्त के नारे सुन अपनी कीमत भूल जाती हैं।<br>
-          <br>
-          चार विचार का संगम जो जादू से सा आ जाता है।<br>
-          यह कारण से की वह आपके समय से धन बनाता है।<br>
-          समय की इस लड़ाई में सच तो कहीं खो जाता है।<br>
-          ज्ञान ही नहीं अज्ञान भी तो फिर भावों से ही आता है।<br>
-          <br>
-          चलो आज इस धारा से हटकर जग को देखें।<br>
-          मोबाईल को जेब में डालकर सिर अपना ऊँचा रखें।<br>
-          विचारों का संचार करें, कुछ भेजने से पहले विचार करें।<br>
-          <br>
-          सच में जब आदान प्रदान होगा, तब ही सच जीतेगा।<br>
-          अज्ञानता के बादल छटेंगे, तकनीकि कलयुग बीतेगा।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/7.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/7.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/7.mp3"  type="audio/mpeg" length="1245435" />
-          <itunes:duration>62.04</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>लकीर</title>
-            <pubDate>Sun, 14 Oct 2023 18:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/8.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/8.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>8</itunes:episode>
-            <itunes:title>लकीर</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>लकीर</h1><p>
-          यूँ ही एक रोज़ मैं।<br>
-          चला लकीरों की खोज में।<br>
-          <br>
-          नक्षों में बनी थी वो।<br>
-          ज़मीन को बाटती थीं जो।<br>
-          पर उनके सिवा भी थी, कई और सैकड़ों।<br>
-          <br>
-          मन के अंदर झांककर।<br>
-          हैरान था मैं जानकर।<br>
-          धर्म लिंग जात, देश, वेश, और रंग से जग को बाटकर।<br>
-          खुश थे हम व्देश को स्वीकार कर।<br>
-          <br>
-          एकता के बल पर जो बढ़े।<br>
-          बंधु आज वो थे लड़े।<br>
-          अचेत भूमी पर पड़े।<br>
-          <br>
-          धन के लालच में अंधे।<br>
-          माया जाल से बंधे।<br>
-          मनुष्य हैं बटे खड़े।<br>
-          अचेत भूमी पर पड़े।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/8.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/8.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/8.mp3"  type="audio/mpeg" length="536811" />
-          <itunes:duration>33.528</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>घड़ी</title>
-            <pubDate>Sat, 21 Oct 2023 21:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/9.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/9.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>9</itunes:episode>
-            <itunes:title>घड़ी</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>घड़ी</h1><p>
-          क्रांति की चाल, छाती विशाल।<br>
-          उन्नति के पथ पर कदम ताल।<br>
-          अचंभित कर, दृश्य ने थाम लिया।<br>
-          <br>
-          विप्रीत दिशा में घूमती थी,<br>
-          मेरे हाथों में बंधी हुई,<br>
-          घड़ी मुझे वो खीचती थी।<br>
-          <br>
-          जब पास बढ़ा जाना मैंने,<br>
-          लफ्जों से कुछ वो बोलती थी।<br>
-          निर्माण-यात्रा के पन्ने, मेरे समक्ष रख खोलती थी।<br>
-          <br>
-          लघु उद्योगों से आई हूं!<br>
-          कठिनाई मेरी पहचानोगे?<br>
-          गुलामी के अंश जो व्यापक हैं…<br>
-          ..स्वीकृत हैं! खुद संस्थापक हैं!<br>
-          क्या उन्हे हटा तुम पाओगे?<br>
-          <br>
-          गुलाम राज्य, मन में स्वराज्य,<br>
-          एक आज़ाद सोच का जन्म हुआ।<br>
-          <br>
-          कुटिल उद्योगों से आया था,<br>
-          चरखा आजादी चिह्न बना।<br>
-          <br>
-          साधारण वेश, अंतर्मन निवेश,<br>
-          उद्योग जगत में क्रांति थी।<br>
-          <br>
-          अर्ध-शतक उपरांत इस क्रांति के,<br>
-          हमने फिर इसका ध्यान किया!<br>
-          MSME कानून प्रदान किया!<br>
-          <br>
-          कुटिल, लघु और मध्यम वर्गों में,<br>
-          निवेश विक्रय देख, कर बाट किया।<br>
-          <br>
-          पर बाट मिटा सा रहता है,<br>
-          अक्सर कानून नही कुछ कहता है।<br>
-          इस समस्या से भी तो फिर,<br>
-          कुटिल-लघु वर्ग ही सहता है।<br>
-          <br>
-          संदर्भ सहित, अब चलो स्वयं,<br>
-          अपनी गाथा बतलाती हूं।<br>
-          नित्य उद्योग के जीवन की,<br>
-          कठिनाई को दर्शाती हूं।<br>
-          <br>
-          निर्माण काल से भी पहले,<br>
-          हिस्सों की कुछ पड़ताल हुई,<br>
-          पहचान लिया उन हिस्सों को,<br>
-          कुछ दूर देश में रहते थे।<br>
-          <br>
-          निर्यात से पहले आयात की बारी थी,<br>
-          पर उससे पहले जंग अलग ही जारी थी,<br>
-          दस्तावेजों के जंजालों से लड़ने की अब तैयारी थी।<br>
-          <br>
-          कंपनी संगठित! आयात हुआ,<br>
-          घड़ी बनी और निर्यात हुआ,<br>
-          पर इसके भीतर भी गाथा है।<br>
-          <br>
-          नित्य उद्योग के जीवन में,<br>
-          कठिनाई है, अभिलाषा है।<br>
-          <br>
-          श्रमिक कानून भी एक श्रम है,<br>
-          इसमें कल्याण का एक भ्रम है।<br>
-          पर्यावरण संरक्षण की एवज में,<br>
-          "बाबू" जी सेवा मांग रहे..<br>
-          प्रदूषण बढ़ता जाता है, न जाने कैसा स्वांग करें!<br>
-          <br>
-          फिर ज़मीन भी एक समस्या है,<br>
-          "लीजहोल्ड" है, लाल फीताशाही का अड्डा है।<br>
-          <br>
-          आग विपदा का कानून तो फिर,<br>
-          जग माप ही समझ न पाया है..<br>
-          जोखिम की अस्थिर प्रकृति को,<br>
-          न जाने क्यों ठुकराया है।<br>
-          <br>
-          समता का कानून लिए, समानता को क्यों भूल चले?<br>
-          कानून अंत है या, एक माध्यम है, पहले इसका संज्ञान करें!<br>
-          <br>
-          उल्टे घूमे इन काटो को,<br>
-          आओ सीधा कर बढ़ते हैं।<br>
-          उन्नति लक्ष्य प्रधान लिए,<br>
-          सर्वकल्याण की नीव को रखते हैं।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/9.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/9.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/9.mp3"  type="audio/mpeg" length="2279019" />
-          <itunes:duration>142.416</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>हीरा</title>
-            <pubDate>Sun, 05 Nov 2023 08:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/10.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/10.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>10</itunes:episode>
-            <itunes:title>हीरा</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>हीरा</h1><p>
-          बनकर दौलत की निशानी,<br>
-          हीरे कहते वर्षों की कहानी।<br>
-          <br>
-          मगर एक गाथा किसी ने ना जानी,<br>
-          धूल की कीमत ना मानी।<br>
-          <br>
-          सूरज से भी कुछ ज़्यादा,<br>
-          कुछ चमक ऐसी वो देखी,<br>
-          जल गया कब जानता ना, जल रहा था नागासाकि।<br>
-          <br>
-          जो मुझे अनंत मानते उनकी ईमारत गिर गई थीं।<br>
-          मुझमें गौरव देखते जो उनकी स्मारक गिर गई थीं।<br>
-          <br>
-          भूमि हिलकर चीखती थी मनुष्य की इस नादानी पे।<br>
-          बाकि जग अंजान क्यों था अपनी इस कारिस्तानी से?<br>
-          <br>
-          अपनी गाथा जग को कहता, पर धूल भी कब बोलती है,<br>
-          कामयाबी धन से अपने सिर्फ़ हीरे तोलती है।<br>
-          <br>
-          ये तो शुक्र है आँख न थीं, दृश्य मौत का न देख सका था।<br>
-          मनुष्य को क्या देखता मैं, वो खुद अंधा हो चुका था।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/10.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/10.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/10.mp3"  type="audio/mpeg" length="781803" />
-          <itunes:duration>48.84</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>कश्मीर</title>
-            <pubDate>Sat, 06 Jan 2024 08:50:00 IST</pubDate>
-            <link>https://kavisidhant.in/11.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/11.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>11</itunes:episode>
-            <itunes:title>कश्मीर</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>कश्मीर</h1><p>
-          कश्मीर के नायाब नज़ारों से दूर,<br>
-          न पर्यटकों का सैलाब,<br>
-          न चमकदार, न मशहूर।<br>
-          <br>
-          श्रीनगर के इतिहास में बसा एक तारीख मकान,<br>
-          तजुर्बे का धनी, शौहरत से अनजान।<br>
-          <br>
-          200 वर्षों से खड़ा है अभीक,<br>
-          बदलती हुकुमतें, रचता अतीत।<br>
-          <br>
-          गोलियां भाई के खिलाफ खर्च होती देखी,<br>
-          बचपन की मासूमियत, उग्रवाद में व्यर्थ होती देखी।<br>
-          <br>
-          वसंत की खूबसूरती, रील में कथित।<br>
-          पतझड़ की गहराई, अनदेखी, अपठित।<br>
-          <br>
-          आंखों से सुनता प्रकृति की गुहार,<br>
-          बढ़ता सूरज, पिघलता पहाड़।<br>
-          <br>
-          कारीगर की इबादत,<br>
-          जवानों की शहादत।<br>
-          <br>
-          उसके ही बीच पनपती,<br>
-          नूटों की हुकूमत,<br>
-          शौहरत की हकीकत।<br>
-          <br>
-          अमन को किया बारूद ने कैद।<br>
-          जंग ए ऐलान में इंतकाम क्यों हुआ वैद?<br>
-          <br>
-          कश्मीर की आवाम,<br>
-          खूं के मंज़र से हैरान,<br>
-          परेशान।<br>
-          <br>
-          मांगती आज़ादी,<br>
-          न चाहती इंतकाम।<br>
-          <br>
-          बर्फीले पहाड़ों में चलने का जुनून।<br>
-          शीत लहर में, नून चाय का सुकून।<br>
-          <br>
-          कांगड़ी की गर्माहट,<br>
-          कदमों की आहट।<br>
-          <br>
-          उन्नति की पुकार,<br>
-          अमन की गुहार।<br>
-          वादी ऐ रंगीन की सुनलो ऐ पुकार।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/11.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/11.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/11.mp3"  type="audio/mpeg" length="912555" />
-          <itunes:duration>57.0</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>बारूद</title>
-            <pubDate>Friday, 26 Jan 2024 08:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/12.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/12.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>12</itunes:episode>
-            <itunes:title>बारूद</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>बारूद</h1><p>
-          नथुराम को, बिनलादेन को बंदूक कौन दिलाता है?<br>
-          गीता नहीं, कुरान भी नहीं, फिर यह ज्ञान कहाँ से आता है?<br>
-          धुँए से घिरे, लाशों से बिछे जग का स्वप्न कौन इन्हें दिखलाता है?<br>
-          <br>
-          धर्म की किताबों में नहीं, न बारूद के तैखानों में।<br>
-          जवाब ढूँढ के मिलते हैं तेरे मेरे ही इस मन में।<br>
-          <br>
-          जब थमे मन से नहीं, दौड़ती आँखों से जग को हम देखते हैं।<br>
-          जो मन को न भाए क्षण भर में उसे फ़ेंकते हैं।<br>
-          जब तर्क नहीं अतर्क बोलों से मनुष्य की परख करें।<br>
-          एक कारण में उलझ, आपस में हम फ़र्क करें।<br>
-          <br>
-          एक बोल से बँट जाएँ, जब ऐसी नाज़ुक डोर पर खड़े।<br>
-          अपनी सीख फैलानें में, उस सीख को ही हम छोड़ चले।<br>
-          <br>
-          याद रखें यह प्रेम भाव ही इस कुल की साज-सज्जा है।<br>
-          अलग बँटते हैं जब हम, तो यह रोता है, यह जलता है।<br>
-          <br>
-          जब अगली बार गणतंत्र दिवस पर देखो उस तोप को तुम..<br>
-          तो सलाम करो उस जज़्बात को भी,<br>
-          पर भूलो मत याद करो कारगिल की उस रात को भी।<br>
-          <br>
-          एकता से खड़े रहो बात-बात पर बँटो नहीं।<br>
-          चर्चा करो, समझो हर पक्ष को, बात-बात पर लड़ो नहीं।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/12.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/12.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/12.mp3"  type="audio/mpeg" length="979179" />
-          <itunes:duration>61.176</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>सड़क</title>
-            <pubDate>Saturday, 13 Apr 2024 21:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/13.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/13.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>13</itunes:episode>
-            <itunes:title>सड़क</itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>सड़क</h1><p>
-          इस रंगारंग से तंग है, सड़क बड़ी हैरान,<br>
-          अचम्भे मैं है ये पड़ी, प्रजातंत्र अनजान।<br>
-          <br>
-          प्रजांतत्र की जान सड़क में बसी हुई है,<br>
-          जन टोली गड्ढे भरने में डटी हुई है।<br>
-          <br>
-          डटी हुई है, चमक धमक ही सबकुछ भाई। <br>
-          छोड़ो अमन, शान्ति और बढ़ती महंगाई।<br>
-          <br>
-          टूटे इन गड्ढों पर फिर कब सत्ता टूटी?<br>
-          धर्म-जात की आड़ में ही तो जेबें लूटीं। <br>
-          <br>
-          लूटीं जेब, सफ़ेद सेठ बड़े अभिमानी,<br>
-          नुक्सान में होकर भी वह सबसे बड़े हैं दानी। <br>
-          <br>
-          बड़े हैं दानी, दान ईश भी देख रहे हैं। <br>
-          कॉन्ट्रैक्ट दान को देख बखूभी भेट रहे हैं। <br>
-          <br>
-          भेट रहे हैं, कर से देश बेहतर कर मेरा।<br>
-          वर्ना नोटिस गेट पर करेगा स्वागत तेरा।<br>
-          <br>
-          स्वागत तेरा कर रही, मशीन ले कैंडिडेट,<br>
-          बटन तू जो भी दाब ले, गारंटी है बस एक। <br>
-          <br>
-          गारंटी है बस एक, भ्रष्टाचार मिलेगा।  <br>
-          तेरे पसीने के बदले, अत्याचार मिलेगा।<br>
-          <br>
-          सदाचार के रूप में, अविचार की भेट,<br>
-          समाज की मांग के प्रतिरूप उपयुक्त है कैंडिडेट।<br>
-          <br>
-          उपयुक्त है कैंडिडेट,देख लो अपना नेता,<br>
-          ज्ञान से उसको प्रेम, डिग्री में रूचि न लेता।<br>
-          <br>
-          रूचि न लेता, निष्काम कर्म का ये अनुयायी।<br>
-          जो है दानी उस पर इसने सत्ताएं लुटायीं।<br>
-          <br>
-          सत्ताएं लुटायीं, धन फिर मैल, क्या अपना पराया?<br>
-          तेरी रोटी, तेरा टुकड़ा, मैंने खाया।<br>
-          <br>
-          मैंने खाया, खाने पर आवाज़ तो न की!<br>
-          राज में अपने दहशत भी काम होने न दी। <br>
-          <br>
-          प्रजातंत्र "मतदान" है!<br>
-          है क्या वाद विवाद?!<br>
-          चिल्लाना फिर भी स्वीकृत,<br>
-          गुनाह विनम्र संवाद।<br>
-          <br>
-          गुनाह विनम्र संवाद, प्रथम मतदान करो तुम!<br>
-          भूलो सब बैठो नेता का काम करो तुम!<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/13.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/13.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/13.mp3"  type="audio/mpeg" length="3426027" />
-          <itunes:duration>214.104</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>मंज़िल </title>
-            <pubDate>Saturday, 16 Nov 2024 10:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/14.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/14.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>14</itunes:episode>
-            <itunes:title>मंज़िल </itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>मंज़िल </h1><p>
-          मन आशा, मंज़िल अभिलाषा,<br>
-          दृण कदम लिए चलता जाता...<br>
-          एक पंथ का पंथी था,<br>
-          मंज़िल की ओर बढ़ा जाता...<br>
-          <br>
-          आराम धरा, अभिमान धरा,<br>
-          सब छोड़ मंज़िल की ओर चला!<br>
-          <br>
-          इस मंज़िल के पथ में मिलते,<br>
-          पर नक्शों के व्यापारी थे,<br>
-          देवदूत के भेष में यह, विचित्र तर्क अधिकारी थे। <br>
-          <br>
-          ज्ञान धरा, संज्ञान धरा,<br>
-          तर्क धरा, प्रयास करा!<br>
-          नित कदमों का अभ्यास करा!!<br>
-          मंज़िल को नित आभास करा। <br>
-          <br>
-          पर शिखर की आशा मन में ले,<br>
-          गगन को कब हम भूल चले?<br>
-          <br>
-          किस ओर चले ये बिन पूछे,<br>
-          हाथ पकड़ यह भीड़ चले!<br>
-          <br>
-          माना मंज़िल मुश्किल भी है,<br>
-          माना अनजान यह पथ भी है... <br>
-          <br>
-          पर मंज़िल तो खुदमें ही, है पथ अपना भी खोज रही। <br>
-          खुद मंज़िल से भी पूछो वो है कितना खुद में जूझ रही। <br>
-          <br>
-          जो खुदको खुद न जान सका... <br>
-          उसका रस्ता तुम पहचान चुके?<br>
-          <br>
-          पंथी आशा बस इतनी है,<br>
-          कदमों से पथ रच जाओगे... <br>
-          <br>
-          पाओगे मंज़िल, पर थमोगे नहीं,<br>
-          आँखों में हैरानी ले बढ़ते जाओगे।<br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/14.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/14.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/14.mp3"  type="audio/mpeg" length="1719148" />
-          <itunes:duration>107.424</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-        <item>
-            <title>प्रार्थना </title>
-            <pubDate>Saturday, 08 Feb 2025 20:00:00 IST</pubDate>
-            <link>https://kavisidhant.in/15.html</link>
-            <dc:creator></dc:creator>
-            <guid>https://kavisidhant.in/15.mp3</guid>
-            <itunes:author>Sidhant Goyal</itunes:author>
-            <itunes:episode>15</itunes:episode>
-            <itunes:title>प्रार्थना </itunes:title>
-          <itunes:summary></itunes:summary>
-          <description></description>
-          <googleplay:description></googleplay:description>
-          <content:encoded><![CDATA[<h1>प्रार्थना </h1><p>
-          हे ईश्वर प्रार्थना है मेरी,<br>
-          आस्था की घाट से कहीं दूर, आराधना है मेरी ... <br>
-          <br>
-          इस मूक दुनिया को एक आवाज़ मिल जाये,<br>
-          मनुष्य को मानवता का आभास मिल जाये ...<br>
-          <br>
-          मुझसे कोसों दूर बस्ता है एक देश जो जल रहा है,<br>
-          रूस की तोपों के तले, टूट रहा है, बिखर रहा है। <br>
-          न ज़ुबान एक है, न धर्म, न आस्था,<br>
-          न जाने फिर क्यों सुन पाता हूँ उनकी चीखें, उनकी दास्तान?<br>
-          <br>
-          अफ़ग़ानिस्तान में तालिबान का शासन बरक़रार।<br>
-          बंदिशों के दड़बे, ज़ंजीरों की दीवार।<br>
-          <br>
-          लालच की भूख फिर भी जारी,<br>
-          साथ ही पलती है भुखमरी, बीमारी! <br>
-          <br>
-          थम, ठहर, रुक, एक षंड तो विचार ले,<br>
-          मौका अभी भी है त्रुटियां सुधर ले!<br>
-          <br>
-          वरना ये जग इंसानियत का मकबरा बन जायेगा।<br>
-          <br>
-          महायोग होगा ये माना, पर १४४ वर्ष में फिर आजायेगा।<br>
-          पर वो योग कब आएगा.. <br>
-          जब इंसान इंसान को समझ पायेगा... <br>
-          जब इंसान इंसान को समझ पायेगा... <br>
-          </p>]]>
-          </content:encoded><itunes:image href="https://kavisidhant.in/15.jpeg"></itunes:image>
-          <googleplay:image href="https://kavisidhant.in/15.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/15.mp3"  type="audio/mpeg" length="1521353" />
-          <itunes:duration>95.064</itunes:duration>
-          <itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit>
-       </item>
-
-</channel>
-</rss>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>Kavi Sidhant</title>
+    <atom:link href="https://kavisidhant.in/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kavisidhant.in</link>
+    <description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</description>
+    <lastBuildDate>Sun, 29 Jun 2025 11:39:05 IST</lastBuildDate>
+    <language>hi</language>
+    <copyright>(CC-BY) 2025 Sidhant Goyal</copyright>
+    <itunes:subtitle>Kavi Sidhant</itunes:subtitle>
+    <itunes:author>Sidhant Goyal</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Sidhant Goyal</googleplay:author>
+    <googleplay:email>sidhantgreen@gmail.com</googleplay:email>
+    <itunes:summary>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</itunes:summary>
+    <googleplay:description>जटिल सामाजिक मुद्दों का विश्लेषण करने वाली हिंदी कविताओं का संग्रह, सिद्धांत गोयल द्वारा लिखित।</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Sidhant Goyal</itunes:name>
+      <itunes:email>sidhantgreen@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://kavisidhant.in/cover.jpeg" />
+    <googleplay:image href="https://kavisidhant.in/cover.jpeg"></googleplay:image>
+    <image>
+      <url>https://kavisidhant.in/cover.jpeg</url>
+      <title>Kavi Sidhant</title>
+      <link>https://kavisidhant.in</link>
+    </image>
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" /></itunes:category>
+        <item>
+            <title>धरती का एक टुकड़ा</title>
+            <pubDate>Sun, 14 May 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/1.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/1.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>धरती का एक टुकड़ा</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>धरती का एक टुकड़ा</h1><p>
+          धरती का एक टुकड़ा हूं,<br>
+          में आज तुझे पुकारता हूं,<br>
+          क्या खोने तू आया है, यह सोचता हूं विचरता हूं।<br>
+          <br>
+          बहती थी नदियां, ठहर गईं।<br>
+          पर्वत भी आँसू रोएं हैं।<br>
+          मोती की चमकों के आगे, सागर ने जंतु खोए हैं।<br>
+          <br>
+          पर जानता हो तेरे यश को,<br>
+          तू कागज़ के फूल बना लेगा,<br>
+          सूरज भी कल जो सुख गया, तू अपना प्रकाश बढ़ा लेगा।<br>
+          <br>
+          पर पूछता हूं सवाल बस यह,<br>
+          इन हीरों से, इन मोती से,<br>
+          इन रंगों से, इन चम्कों से,<br>
+          सुगंध हीन इन फूलों से,<br>
+          क्या प्रेम गीत सजा लोगे?<br>
+          कृत्रम प्रकाश की किरणों से, क्या मन का दीप जला लोगे?<br>
+          <br>
+          नित अंधकार से घिरा हुआ, <br>
+          अपनी सीरत पहचान भी ले,<br>
+          क्या खोने तू आया है अपनी किस्मत को जान भी ले!<br>
+          <br>
+          पवन भी बहना भूल गया, अब धुएं के बदल छाए हैं।<br>
+          मनुष्य विचारना छोड़ चले, दिन हीरों के अब आएं हैं <br>
+          <br>
+          तारों की छांव के बदले, हत्यारों का प्रकाश सजा लेगा,<br>
+          इस धरती को नष्ट कर तो शायद, अपनी लघुता स्वीकार लेगा।<br>
+          <br>
+          किन अंधेरों से घिरा हुआ, अपनी गलती पहचान भी ले।<br>
+          मौका आखरी देती हूं, अपनी त्रुटियों सुधार भी ले।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/1.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/1.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/1.mp3"  type="audio/mpeg" length="1114604" />
+          <itunes:duration>75.456</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>ख़बर स्वाद अनुसार</title>
+            <pubDate>Sat, 20 May 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/2.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/2.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>2</itunes:episode>
+            <itunes:title>ख़बर स्वाद अनुसार</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>ख़बर स्वाद अनुसार</h1><p>
+          ख़बर स्वाद के भेद का कभी किया है ग़ौर?<br>
+          नहीं किया तो देख लो ये नई ख़बर का दौर!<br>
+          <br>
+          नए दौर में देखो कितने बावर्ची कलछी फेर रहे हैं,<br>
+          पढ़े-लिखे-अनपढ़ सबको यह घेर रहे हैं ।<br>
+          <br>
+          लाला भृकुटिलाल तो इस व्यापार में फूले,<br>
+          ज्ञान का विक्रय करते करते उसको पढ़ना भूले,<br>
+          <br>
+          नित्य लोगों को ख़बर के चटकारे देते,<br>
+          करते हैं दान, आदान में कुछ न लेते ।<br>
+          <br>
+          इनसे बड़े भी ज्ञानी हैं ये पंडित हरियानन्द।<br>
+          पंडित हरियानन्द भूख को भाँप रहे हैं,<br>
+          समय की माँग देख मिथ्या ही छाप रहे हैं!<br>
+          <br>
+          मिथ्या-सत्य में फिर भला कैसा हैं ये भेद?<br>
+          यह दक़ियानूसी सोच है, जैसे काला और सफ़ेद!<br>
+          <br>
+          काला और सफ़ेद तो भैया रहा न अक्षर,<br>
+          हरी पीली स्लेट से सब अब हुए साक्षर।<br>
+          <br>
+          ज्ञान विक्रय की क्या तीव्रता अजब ग़ज़ब यह दौर,<br>
+          जल्द पता कुछ चल सके यही लगी है दौड़।<br>
+          <br>
+          इसी दौड़ में तो हरित भी दौड़े,<br>
+          क्या होगा आगे सोचें दिमाग़ी घोड़े।<br>
+          <br>
+          मास्टर स्मिथ आनंद की मगर अलग है सोच,<br>
+          जग में असत्य कि खड़ी इनकी बड़ी है खोज।<br>
+          <br>
+          भैया खड़ी है खोज इन्होंने ऐसा खोजा उत्तर,<br>
+          पृथ्वी की गोलाई पर ही हुए निरुत्तर।<br>
+          <br>
+          निरुत्तर खड़े सबको झूठा आँक रहे हैं।<br>
+          विज्ञान की पीठ को छोड़ असत्य में झांक रहे हैं।<br>
+          <br>
+          मगर इस ही दौड़ में धनानंद को बड़ा आनंद,<br>
+          इनका कारोबार है फैलाना झूठे छंद।<br>
+          <br>
+          झूठे छंद इनके जब जब हैं फैले,<br>
+          नोट के द्वार खड़े हैं इनके झोले थैले।<br>
+          <br>
+          धनानंद घर बैठे सिक्के तोल रहे हैं।<br>
+          वहीं भृकुटी लाल ज्ञान के चक्षु खोल रहे हैं।<br>
+          <br>
+          हाँ! चख लो भूख मिटाने का नया ये मंतर,<br>
+          जीभ पर होगा स्वाद मिटेगा मिथ्या-सत्य का अंतर।<br>
+          <br>
+          घिसीपिटी किताबी बातें भूल सकोगे,<br>
+          बात-बात पर नुस्ख़े सौ तुम बोल सकोगे।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/2.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/2.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/2.mp3"  type="audio/mpeg" length="1908548" />
+          <itunes:duration>133.224</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>कागज़</title>
+            <pubDate>Sun, 4 Jun 2023 15:70:18 IST</pubDate>
+            <link>https://kavisidhant.in/3.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/3.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>3</itunes:episode>
+            <itunes:title>कागज़</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>कागज़</h1><p>
+          भूमि पर एक दिन जा गिरा ।<br>
+          इस अनजान जग से कुछ डरा-डरा ।<br>
+          समय ने अपना कार्य  करा ।<br>
+          एक बीज बरगद का विशाल वृक्ष बना ।<br>
+          <br>
+          मैं ही चिड़िया का बसेरा था ।<br>
+          मनुष्यों  से संबन्ध भी गहरा था ।<br>
+          सुनता था नित एक नई कथा ।<br>
+          दु:ख-सु:ख सबकी कोई गाथा।<br>
+          <br>
+          आज़ादी  का आभास देख।<br>
+          सन सैंतालीस का उल्लास देख ।<br>
+          इस आज़ाद देश को देख-देख मैं हर्षाया ।<br>
+          फिर अगले ही क्षण, कंठ भी मेरा भर आया ।<br>
+          बटे हुए देश के ख्याल ने मुझे सताया।<br>
+          <br>
+          इस दु:ख मे डूबे खड़ा हुआ ।<br>
+          भूख के दृश्यों में भी अड़ा हुआ।<br>
+          समय ने फिर कुछ काम किया ।<br>
+          भू पे था मैं अब पड़ा हुआ ।<br>
+          <br>
+          आज़ादी का पैगाम बनने का मौका तो मैंने न पाया।<br>
+          पर उन्नति की मांग ने मुझको कागज़ बनाया ।<br>
+          ज़मीन की कीमत ने शायद मुझको अपना दाम दिखाया।<br>
+          <br>
+          बटे हुए इस देश में बन एकता का पैगाम ।<br>
+          किसी स्वतंत्रता सैनानी से कम नहीं था मेरा काम ।<br>
+          अपने इस सफ़र को देते हुए विराम ।<br>
+          आज जलकर करूँगा एक मनुष्य को ऊष्मा प्रदान ।<br>
+          सदा रहे सच्चा मेरा दिया सब ज्ञान ।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/3.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/3.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/3.mp3"  type="audio/mpeg" length="1125932" />
+          <itunes:duration>72.384</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>चिड़िया </title>
+            <pubDate>Sun, 09 Jul 2023 15:17:10 IST</pubDate>
+            <link>https://kavisidhant.in/4.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/4.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>4</itunes:episode>
+            <itunes:title>चिड़िया </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>चिड़िया </h1><p>
+          रूह अम्बर में, पग में धरती,<br>
+          ह्रदय विशाल, लघु आशा है!<br>
+          इस चिड़िया की रुक चाल सुनो!<br>
+          क्रांति सुगंध, अभिलाषा है.... <br>
+          <br>
+          आशा है अम्बर को छूले,<br>
+          पर पग रह जायें धरती पर<br>
+          जो ज्ञान है इसके कदमों में,<br>
+          चीखों में वो संज्ञान कहाँ?<br>
+          स्वरचित पंथ अनुयायी है,<br>
+          ज़ंजीरों का संज्ञान कहाँ!<br>
+          <br>
+          कभी विकराल रूप,<br>
+          ममता स्वरुप,<br>
+          इस अंधकार में, सूक्षम धुप,<br>
+          हाँ बादल से है घिरी हुई,<br>
+          उन बादल का संज्ञान भी है,<br>
+          शायद कुछ से अनजान भी है... <br>
+          <br>
+          पर गगन खूब पहचानती है,<br>
+          उसकी कीमत भी जानती है.. <br>
+          <br>
+          समाज खड़ा है सीमा बन,<br>
+          कुछ नापाक कदम,<br>
+          कुछ अभद्र मनन,<br>
+          सबसे तत्वों से यह वाकिफ है। <br>
+          <br>
+          आशा है, इन तत्वों को उखाड़,<br>
+          मानव की भाषा को सुधार,<br>
+          विचार दक्यानुसी पिछाड़,<br>
+          मानव को मानुष में उभार,<br>
+          गगन जीत कर आएगी...<br>
+          <br>
+          पर आशा है, पहचानेंगे हम,<br>
+          वह ममता, कोमलता से बढ़कर,<br>
+          एक अद्वित्य स्वरुप भी है। <br>
+          <br>
+          नारी से आगे बढ़कर वो,<br>
+          एक मनुष्य भिन्न अनूप भी है।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/4.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/4.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/4.mp3"  type="audio/mpeg" length="2063228" />
+          <itunes:duration>127.44</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>ताज महल</title>
+            <pubDate>Sun, 13 Aug 2023 15:45:14 IST</pubDate>
+            <link>https://kavisidhant.in/5.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/5.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>5</itunes:episode>
+            <itunes:title>ताज महल</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>ताज महल</h1><p>
+          यमुना की गोद में मोती सा चमकता एक मकबरा।<br>
+          मोहब्बत का इश्तिहार?<br>
+          या एक स्मारक शोहरत से भरा?<br>
+          <br>
+          जूझता इन्हीं सवालों से,<br>
+          खड़ा था मैं उसे पार,<br>
+          उतरती थी मेरी तस्वीर .. <br>
+          क्या मैं खुद भी था इश्तिहार?<br>
+          <br>
+          तब ही संगमरमर ने तोड़ी चुप्पी की सलाख,<br>
+          विद्वता ले 300 वर्षों की,<br>
+          बोला विनम्र स्वभाव..<br>
+          ये नक्काशी, ये खूबसूरती,<br>
+          यह छलावा, यह नकाब,<br>
+          हमेशा  समझे गए हैं मोहब्बत के शबाब...<br>
+          <br>
+          पर देखनी हो मोहब्बत की असली तासीर,<br>
+          तो उन फ़नकारूँ के जज़बे को देखो,<br>
+          जिन्होंने बक्शी इसको यह नायाब तस्वीर..<br>
+          <br>
+          या देखो उनकी दूरदर्शिता,<br>
+          जिनके कारण 300 वर्षों से खड़ी है यह इमारत,<br>
+          बनके प्रेम, मोहब्बत और शोहरत की स्मारक। <br>
+          <br>
+          या जानो शौहरत की फितरत,<br>
+          जो चंद पलों में गुज़र जाती है,<br>
+          अपनी निशानी की तरह,<br>
+          कुछ स्मारक मात्र छोड़ जाती है। <br>
+          <br>
+          या सुनो कुदरत की वो पुकार,<br>
+          जो पीलेपन से इस इमारत को निखार,<br>
+          मांगती हमसे एक सच्चा प्रयास।<br>
+          <br>
+          दिखाकर देखो तो इस मकबरे को आइने,<br>
+          इसमें छुपे है, लाखों.. लाखों.. मायेने।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/5.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/5.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/5.mp3"  type="audio/mpeg" length="1163036" />
+          <itunes:duration>68.04</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>भाषा</title>
+            <pubDate>Sun, 20 Aug 2023 11:58:19 IST</pubDate>
+            <link>https://kavisidhant.in/6.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/6.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>6</itunes:episode>
+            <itunes:title>भाषा</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>भाषा</h1><p>
+          भाव-विचार प्रसार की जननी, भाषा का आभारी हूं,<br>
+          तेरे कारण ही तो मैं, अपने बोलो का अधिकारी हूं।<br>
+          <br>
+          पर आभार करूं मैं किस किस का।<br>
+          यह जीवन भी तो उपहार ही है,<br>
+          लाखों का उपकार ही है।<br>
+          <br>
+          पर भाषा तेरे ही बोलों से,<br>
+          दिल कितनों के हैं टूट चुके,<br>
+          ये जलते घर, जलती गलियां, जलती लाशें,<br>
+          मुझसे भी कुछ मांगती हैं…<br>
+          उत्तर को चीख पुकारती हैं।<br>
+          <br>
+          मेरे भी कुछ बोलो से तो,<br>
+          हृदय आघात हुआ होगा।<br>
+          जो टूट गया उस दिल को मैं, शब्दों से कैसे जोड़ सकूं?<br>
+          <br>
+          बस माफी ही दिल से मांग सकूं,<br>
+          गलती अपनी स्वीकार सकूं,<br>
+          इस डोर पड़ी हैं गाठें जो,<br>
+          स्प्रेम मैं उनको तार सकूं।<br>
+          <br>
+          इतिहास देख पहचानता हूं,<br>
+          शायद यह भूल पुनेः भी हो।<br>
+          कृपा होगी माफी उस क्षण की,<br>
+          जो आज ही तुम स्वीकार करो।<br>
+          बेहतर बनने की मेरी आशा,<br>
+          पहचान सको, साकार सको।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/6.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/6.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/6.mp3"  type="audio/mpeg" length="829803" />
+          <itunes:duration>51.84</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>कान</title>
+            <pubDate>Sun, 10 Sep 2023 10:30:00 IST</pubDate>
+            <link>https://kavisidhant.in/7.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/7.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>7</itunes:episode>
+            <itunes:title>कान</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>कान</h1><p>
+          समाचार की चीख भी सुनते,<br>
+          टेलिफ़ोन की टुन-टुन भी।<br>
+          पर यह धारा जो बहती, इस पर इनका बस नहीं।<br>
+          <br>
+          सच-झूठ का भेद न जाने, कान तो बस नित सुनते हैं।<br>
+          असत्य को ही तथ्य मानकर कारण उसके गुनते हैं।<br>
+          पर इनकी इस धारा को हाथ न इनके चुनते हैं।<br>
+          जो जलाते हैं वो हाथ अलग हैं, पर शहर और ही कारण जलते हैं।<br>
+          <br>
+          अज्ञानता के इस खेल में आँख भी उनकी साथी हैं।<br>
+          हाथ को दोषी मानती हैं वो कारण समझ न पाती हैं।<br>
+          मुफ़्त-मुफ़्त के नारे सुन अपनी कीमत भूल जाती हैं।<br>
+          <br>
+          चार विचार का संगम जो जादू से सा आ जाता है।<br>
+          यह कारण से की वह आपके समय से धन बनाता है।<br>
+          समय की इस लड़ाई में सच तो कहीं खो जाता है।<br>
+          ज्ञान ही नहीं अज्ञान भी तो फिर भावों से ही आता है।<br>
+          <br>
+          चलो आज इस धारा से हटकर जग को देखें।<br>
+          मोबाईल को जेब में डालकर सिर अपना ऊँचा रखें।<br>
+          विचारों का संचार करें, कुछ भेजने से पहले विचार करें।<br>
+          <br>
+          सच में जब आदान प्रदान होगा, तब ही सच जीतेगा।<br>
+          अज्ञानता के बादल छटेंगे, तकनीकि कलयुग बीतेगा।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/7.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/7.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/7.mp3"  type="audio/mpeg" length="1245435" />
+          <itunes:duration>62.04</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>लकीर</title>
+            <pubDate>Sun, 14 Oct 2023 18:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/8.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/8.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>8</itunes:episode>
+            <itunes:title>लकीर</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>लकीर</h1><p>
+          यूँ ही एक रोज़ मैं।<br>
+          चला लकीरों की खोज में।<br>
+          <br>
+          नक्षों में बनी थी वो।<br>
+          ज़मीन को बाटती थीं जो।<br>
+          पर उनके सिवा भी थी, कई और सैकड़ों।<br>
+          <br>
+          मन के अंदर झांककर।<br>
+          हैरान था मैं जानकर।<br>
+          धर्म लिंग जात, देश, वेश, और रंग से जग को बाटकर।<br>
+          खुश थे हम व्देश को स्वीकार कर।<br>
+          <br>
+          एकता के बल पर जो बढ़े।<br>
+          बंधु आज वो थे लड़े।<br>
+          अचेत भूमी पर पड़े।<br>
+          <br>
+          धन के लालच में अंधे।<br>
+          माया जाल से बंधे।<br>
+          मनुष्य हैं बटे खड़े।<br>
+          अचेत भूमी पर पड़े।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/8.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/8.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/8.mp3"  type="audio/mpeg" length="536811" />
+          <itunes:duration>33.528</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>घड़ी</title>
+            <pubDate>Sat, 21 Oct 2023 21:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/9.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/9.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>9</itunes:episode>
+            <itunes:title>घड़ी</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>घड़ी</h1><p>
+          क्रांति की चाल, छाती विशाल।<br>
+          उन्नति के पथ पर कदम ताल।<br>
+          अचंभित कर, दृश्य ने थाम लिया।<br>
+          <br>
+          विप्रीत दिशा में घूमती थी,<br>
+          मेरे हाथों में बंधी हुई,<br>
+          घड़ी मुझे वो खीचती थी।<br>
+          <br>
+          जब पास बढ़ा जाना मैंने,<br>
+          लफ्जों से कुछ वो बोलती थी।<br>
+          निर्माण-यात्रा के पन्ने, मेरे समक्ष रख खोलती थी।<br>
+          <br>
+          लघु उद्योगों से आई हूं!<br>
+          कठिनाई मेरी पहचानोगे?<br>
+          गुलामी के अंश जो व्यापक हैं…<br>
+          ..स्वीकृत हैं! खुद संस्थापक हैं!<br>
+          क्या उन्हे हटा तुम पाओगे?<br>
+          <br>
+          गुलाम राज्य, मन में स्वराज्य,<br>
+          एक आज़ाद सोच का जन्म हुआ।<br>
+          <br>
+          कुटिल उद्योगों से आया था,<br>
+          चरखा आजादी चिह्न बना।<br>
+          <br>
+          साधारण वेश, अंतर्मन निवेश,<br>
+          उद्योग जगत में क्रांति थी।<br>
+          <br>
+          अर्ध-शतक उपरांत इस क्रांति के,<br>
+          हमने फिर इसका ध्यान किया!<br>
+          MSME कानून प्रदान किया!<br>
+          <br>
+          कुटिल, लघु और मध्यम वर्गों में,<br>
+          निवेश विक्रय देख, कर बाट किया।<br>
+          <br>
+          पर बाट मिटा सा रहता है,<br>
+          अक्सर कानून नही कुछ कहता है।<br>
+          इस समस्या से भी तो फिर,<br>
+          कुटिल-लघु वर्ग ही सहता है।<br>
+          <br>
+          संदर्भ सहित, अब चलो स्वयं,<br>
+          अपनी गाथा बतलाती हूं।<br>
+          नित्य उद्योग के जीवन की,<br>
+          कठिनाई को दर्शाती हूं।<br>
+          <br>
+          निर्माण काल से भी पहले,<br>
+          हिस्सों की कुछ पड़ताल हुई,<br>
+          पहचान लिया उन हिस्सों को,<br>
+          कुछ दूर देश में रहते थे।<br>
+          <br>
+          निर्यात से पहले आयात की बारी थी,<br>
+          पर उससे पहले जंग अलग ही जारी थी,<br>
+          दस्तावेजों के जंजालों से लड़ने की अब तैयारी थी।<br>
+          <br>
+          कंपनी संगठित! आयात हुआ,<br>
+          घड़ी बनी और निर्यात हुआ,<br>
+          पर इसके भीतर भी गाथा है।<br>
+          <br>
+          नित्य उद्योग के जीवन में,<br>
+          कठिनाई है, अभिलाषा है।<br>
+          <br>
+          श्रमिक कानून भी एक श्रम है,<br>
+          इसमें कल्याण का एक भ्रम है।<br>
+          पर्यावरण संरक्षण की एवज में,<br>
+          "बाबू" जी सेवा मांग रहे..<br>
+          प्रदूषण बढ़ता जाता है, न जाने कैसा स्वांग करें!<br>
+          <br>
+          फिर ज़मीन भी एक समस्या है,<br>
+          "लीजहोल्ड" है, लाल फीताशाही का अड्डा है।<br>
+          <br>
+          आग विपदा का कानून तो फिर,<br>
+          जग माप ही समझ न पाया है..<br>
+          जोखिम की अस्थिर प्रकृति को,<br>
+          न जाने क्यों ठुकराया है।<br>
+          <br>
+          समता का कानून लिए, समानता को क्यों भूल चले?<br>
+          कानून अंत है या, एक माध्यम है, पहले इसका संज्ञान करें!<br>
+          <br>
+          उल्टे घूमे इन काटो को,<br>
+          आओ सीधा कर बढ़ते हैं।<br>
+          उन्नति लक्ष्य प्रधान लिए,<br>
+          सर्वकल्याण की नीव को रखते हैं।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/9.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/9.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/9.mp3"  type="audio/mpeg" length="2279019" />
+          <itunes:duration>142.416</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>हीरा</title>
+            <pubDate>Sun, 05 Nov 2023 08:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/10.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/10.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>10</itunes:episode>
+            <itunes:title>हीरा</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>हीरा</h1><p>
+          बनकर दौलत की निशानी,<br>
+          हीरे कहते वर्षों की कहानी।<br>
+          <br>
+          मगर एक गाथा किसी ने ना जानी,<br>
+          धूल की कीमत ना मानी।<br>
+          <br>
+          सूरज से भी कुछ ज़्यादा,<br>
+          कुछ चमक ऐसी वो देखी,<br>
+          जल गया कब जानता ना, जल रहा था नागासाकि।<br>
+          <br>
+          जो मुझे अनंत मानते उनकी ईमारत गिर गई थीं।<br>
+          मुझमें गौरव देखते जो उनकी स्मारक गिर गई थीं।<br>
+          <br>
+          भूमि हिलकर चीखती थी मनुष्य की इस नादानी पे।<br>
+          बाकि जग अंजान क्यों था अपनी इस कारिस्तानी से?<br>
+          <br>
+          अपनी गाथा जग को कहता, पर धूल भी कब बोलती है,<br>
+          कामयाबी धन से अपने सिर्फ़ हीरे तोलती है।<br>
+          <br>
+          ये तो शुक्र है आँख न थीं, दृश्य मौत का न देख सका था।<br>
+          मनुष्य को क्या देखता मैं, वो खुद अंधा हो चुका था।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/10.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/10.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/10.mp3"  type="audio/mpeg" length="781803" />
+          <itunes:duration>48.84</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>कश्मीर</title>
+            <pubDate>Sat, 06 Jan 2024 08:50:00 IST</pubDate>
+            <link>https://kavisidhant.in/11.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/11.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>11</itunes:episode>
+            <itunes:title>कश्मीर</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>कश्मीर</h1><p>
+          कश्मीर के नायाब नज़ारों से दूर,<br>
+          न पर्यटकों का सैलाब,<br>
+          न चमकदार, न मशहूर।<br>
+          <br>
+          श्रीनगर के इतिहास में बसा एक तारीख मकान,<br>
+          तजुर्बे का धनी, शौहरत से अनजान।<br>
+          <br>
+          200 वर्षों से खड़ा है अभीक,<br>
+          बदलती हुकुमतें, रचता अतीत।<br>
+          <br>
+          गोलियां भाई के खिलाफ खर्च होती देखी,<br>
+          बचपन की मासूमियत, उग्रवाद में व्यर्थ होती देखी।<br>
+          <br>
+          वसंत की खूबसूरती, रील में कथित।<br>
+          पतझड़ की गहराई, अनदेखी, अपठित।<br>
+          <br>
+          आंखों से सुनता प्रकृति की गुहार,<br>
+          बढ़ता सूरज, पिघलता पहाड़।<br>
+          <br>
+          कारीगर की इबादत,<br>
+          जवानों की शहादत।<br>
+          <br>
+          उसके ही बीच पनपती,<br>
+          नूटों की हुकूमत,<br>
+          शौहरत की हकीकत।<br>
+          <br>
+          अमन को किया बारूद ने कैद।<br>
+          जंग ए ऐलान में इंतकाम क्यों हुआ वैद?<br>
+          <br>
+          कश्मीर की आवाम,<br>
+          खूं के मंज़र से हैरान,<br>
+          परेशान।<br>
+          <br>
+          मांगती आज़ादी,<br>
+          न चाहती इंतकाम।<br>
+          <br>
+          बर्फीले पहाड़ों में चलने का जुनून।<br>
+          शीत लहर में, नून चाय का सुकून।<br>
+          <br>
+          कांगड़ी की गर्माहट,<br>
+          कदमों की आहट।<br>
+          <br>
+          उन्नति की पुकार,<br>
+          अमन की गुहार।<br>
+          वादी ऐ रंगीन की सुनलो ऐ पुकार।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/11.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/11.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/11.mp3"  type="audio/mpeg" length="912555" />
+          <itunes:duration>57.0</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>बारूद</title>
+            <pubDate>Friday, 26 Jan 2024 08:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/12.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/12.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>12</itunes:episode>
+            <itunes:title>बारूद</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>बारूद</h1><p>
+          नथुराम को, बिनलादेन को बंदूक कौन दिलाता है?<br>
+          गीता नहीं, कुरान भी नहीं, फिर यह ज्ञान कहाँ से आता है?<br>
+          धुँए से घिरे, लाशों से बिछे जग का स्वप्न कौन इन्हें दिखलाता है?<br>
+          <br>
+          धर्म की किताबों में नहीं, न बारूद के तैखानों में।<br>
+          जवाब ढूँढ के मिलते हैं तेरे मेरे ही इस मन में।<br>
+          <br>
+          जब थमे मन से नहीं, दौड़ती आँखों से जग को हम देखते हैं।<br>
+          जो मन को न भाए क्षण भर में उसे फ़ेंकते हैं।<br>
+          जब तर्क नहीं अतर्क बोलों से मनुष्य की परख करें।<br>
+          एक कारण में उलझ, आपस में हम फ़र्क करें।<br>
+          <br>
+          एक बोल से बँट जाएँ, जब ऐसी नाज़ुक डोर पर खड़े।<br>
+          अपनी सीख फैलानें में, उस सीख को ही हम छोड़ चले।<br>
+          <br>
+          याद रखें यह प्रेम भाव ही इस कुल की साज-सज्जा है।<br>
+          अलग बँटते हैं जब हम, तो यह रोता है, यह जलता है।<br>
+          <br>
+          जब अगली बार गणतंत्र दिवस पर देखो उस तोप को तुम..<br>
+          तो सलाम करो उस जज़्बात को भी,<br>
+          पर भूलो मत याद करो कारगिल की उस रात को भी।<br>
+          <br>
+          एकता से खड़े रहो बात-बात पर बँटो नहीं।<br>
+          चर्चा करो, समझो हर पक्ष को, बात-बात पर लड़ो नहीं।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/12.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/12.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/12.mp3"  type="audio/mpeg" length="979179" />
+          <itunes:duration>61.176</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>सड़क</title>
+            <pubDate>Saturday, 13 Apr 2024 21:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/13.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/13.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>13</itunes:episode>
+            <itunes:title>सड़क</itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>सड़क</h1><p>
+          इस रंगारंग से तंग है, सड़क बड़ी हैरान,<br>
+          अचम्भे मैं है ये पड़ी, प्रजातंत्र अनजान।<br>
+          <br>
+          प्रजांतत्र की जान सड़क में बसी हुई है,<br>
+          जन टोली गड्ढे भरने में डटी हुई है।<br>
+          <br>
+          डटी हुई है, चमक धमक ही सबकुछ भाई। <br>
+          छोड़ो अमन, शान्ति और बढ़ती महंगाई।<br>
+          <br>
+          टूटे इन गड्ढों पर फिर कब सत्ता टूटी?<br>
+          धर्म-जात की आड़ में ही तो जेबें लूटीं। <br>
+          <br>
+          लूटीं जेब, सफ़ेद सेठ बड़े अभिमानी,<br>
+          नुक्सान में होकर भी वह सबसे बड़े हैं दानी। <br>
+          <br>
+          बड़े हैं दानी, दान ईश भी देख रहे हैं। <br>
+          कॉन्ट्रैक्ट दान को देख बखूभी भेट रहे हैं। <br>
+          <br>
+          भेट रहे हैं, कर से देश बेहतर कर मेरा।<br>
+          वर्ना नोटिस गेट पर करेगा स्वागत तेरा।<br>
+          <br>
+          स्वागत तेरा कर रही, मशीन ले कैंडिडेट,<br>
+          बटन तू जो भी दाब ले, गारंटी है बस एक। <br>
+          <br>
+          गारंटी है बस एक, भ्रष्टाचार मिलेगा।  <br>
+          तेरे पसीने के बदले, अत्याचार मिलेगा।<br>
+          <br>
+          सदाचार के रूप में, अविचार की भेट,<br>
+          समाज की मांग के प्रतिरूप उपयुक्त है कैंडिडेट।<br>
+          <br>
+          उपयुक्त है कैंडिडेट,देख लो अपना नेता,<br>
+          ज्ञान से उसको प्रेम, डिग्री में रूचि न लेता।<br>
+          <br>
+          रूचि न लेता, निष्काम कर्म का ये अनुयायी।<br>
+          जो है दानी उस पर इसने सत्ताएं लुटायीं।<br>
+          <br>
+          सत्ताएं लुटायीं, धन फिर मैल, क्या अपना पराया?<br>
+          तेरी रोटी, तेरा टुकड़ा, मैंने खाया।<br>
+          <br>
+          मैंने खाया, खाने पर आवाज़ तो न की!<br>
+          राज में अपने दहशत भी काम होने न दी। <br>
+          <br>
+          प्रजातंत्र "मतदान" है!<br>
+          है क्या वाद विवाद?!<br>
+          चिल्लाना फिर भी स्वीकृत,<br>
+          गुनाह विनम्र संवाद।<br>
+          <br>
+          गुनाह विनम्र संवाद, प्रथम मतदान करो तुम!<br>
+          भूलो सब बैठो नेता का काम करो तुम!<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/13.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/13.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/13.mp3"  type="audio/mpeg" length="3426027" />
+          <itunes:duration>214.104</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>मंज़िल </title>
+            <pubDate>Saturday, 16 Nov 2024 10:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/14.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/14.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>14</itunes:episode>
+            <itunes:title>मंज़िल </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>मंज़िल </h1><p>
+          मन आशा, मंज़िल अभिलाषा,<br>
+          दृण कदम लिए चलता जाता...<br>
+          एक पंथ का पंथी था,<br>
+          मंज़िल की ओर बढ़ा जाता...<br>
+          <br>
+          आराम धरा, अभिमान धरा,<br>
+          सब छोड़ मंज़िल की ओर चला!<br>
+          <br>
+          इस मंज़िल के पथ में मिलते,<br>
+          पर नक्शों के व्यापारी थे,<br>
+          देवदूत के भेष में यह, विचित्र तर्क अधिकारी थे। <br>
+          <br>
+          ज्ञान धरा, संज्ञान धरा,<br>
+          तर्क धरा, प्रयास करा!<br>
+          नित कदमों का अभ्यास करा!!<br>
+          मंज़िल को नित आभास करा। <br>
+          <br>
+          पर शिखर की आशा मन में ले,<br>
+          गगन को कब हम भूल चले?<br>
+          <br>
+          किस ओर चले ये बिन पूछे,<br>
+          हाथ पकड़ यह भीड़ चले!<br>
+          <br>
+          माना मंज़िल मुश्किल भी है,<br>
+          माना अनजान यह पथ भी है... <br>
+          <br>
+          पर मंज़िल तो खुदमें ही, है पथ अपना भी खोज रही। <br>
+          खुद मंज़िल से भी पूछो वो है कितना खुद में जूझ रही। <br>
+          <br>
+          जो खुदको खुद न जान सका... <br>
+          उसका रस्ता तुम पहचान चुके?<br>
+          <br>
+          पंथी आशा बस इतनी है,<br>
+          कदमों से पथ रच जाओगे... <br>
+          <br>
+          पाओगे मंज़िल, पर थमोगे नहीं,<br>
+          आँखों में हैरानी ले बढ़ते जाओगे।<br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/14.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/14.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/14.mp3"  type="audio/mpeg" length="1719148" />
+          <itunes:duration>107.424</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+        <item>
+            <title>प्रार्थना </title>
+            <pubDate>Saturday, 08 Feb 2025 20:00:00 IST</pubDate>
+            <link>https://kavisidhant.in/15.html</link>
+            <dc:creator></dc:creator>
+            <guid>https://kavisidhant.in/15.mp3</guid>
+            <itunes:author>Sidhant Goyal</itunes:author>
+            <itunes:episode>15</itunes:episode>
+            <itunes:title>प्रार्थना </itunes:title>
+          <itunes:summary></itunes:summary>
+          <description></description>
+          <googleplay:description></googleplay:description>
+          <content:encoded><![CDATA[<h1>प्रार्थना </h1><p>
+          हे ईश्वर प्रार्थना है मेरी,<br>
+          आस्था की घाट से कहीं दूर, आराधना है मेरी ... <br>
+          <br>
+          इस मूक दुनिया को एक आवाज़ मिल जाये,<br>
+          मनुष्य को मानवता का आभास मिल जाये ...<br>
+          <br>
+          मुझसे कोसों दूर बस्ता है एक देश जो जल रहा है,<br>
+          रूस की तोपों के तले, टूट रहा है, बिखर रहा है। <br>
+          न ज़ुबान एक है, न धर्म, न आस्था,<br>
+          न जाने फिर क्यों सुन पाता हूँ उनकी चीखें, उनकी दास्तान?<br>
+          <br>
+          अफ़ग़ानिस्तान में तालिबान का शासन बरक़रार।<br>
+          बंदिशों के दड़बे, ज़ंजीरों की दीवार।<br>
+          <br>
+          लालच की भूख फिर भी जारी,<br>
+          साथ ही पलती है भुखमरी, बीमारी! <br>
+          <br>
+          थम, ठहर, रुक, एक षंड तो विचार ले,<br>
+          मौका अभी भी है त्रुटियां सुधर ले!<br>
+          <br>
+          वरना ये जग इंसानियत का मकबरा बन जायेगा।<br>
+          <br>
+          महायोग होगा ये माना, पर १४४ वर्ष में फिर आजायेगा।<br>
+          पर वो योग कब आएगा.. <br>
+          जब इंसान इंसान को समझ पायेगा... <br>
+          जब इंसान इंसान को समझ पायेगा... <br>
+          </p>]]>
+          </content:encoded><itunes:image href="https://kavisidhant.in/15.jpeg"></itunes:image>
+          <googleplay:image href="https://kavisidhant.in/15.jpeg"></googleplay:image><enclosure url="https://kavisidhant.in/15.mp3"  type="audio/mpeg" length="1521353" />
+          <itunes:duration>95.064</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit>
+       </item>
+
+</channel>
+</rss>
